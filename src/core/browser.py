@@ -29,7 +29,6 @@ class BrowserManager:
         if privacy.is_visible(): privacy.click()
         
         page.get_by_role("button", name="登录").click()
-        print("登录完成")
         page.wait_for_timeout(1500)
         page.wait_for_url("**practice**", timeout=10000)   # 改为实际的目标路径
-        print("登录成功，已跳转")
+        print(f"登录成功，已跳转至{settings.question_url}")

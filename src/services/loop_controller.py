@@ -45,11 +45,11 @@ class LoopController:  # <--- 确保这一行存在且拼写正确
                 question = APIQuestionParser.parse(raw_data)
                 
                 print(f"📝 正在处理题号: {question.id}")
-                print(f"📋 题目详情: {question}")
+                # print(f"📋 题目详情: {question}")
                 
                 # 查找答案
                 question = self.finder.find_answer(question)
-                print(f"📋 答案详情: {question}")
+                # print(f"📋 答案详情: {question}")
                 
                 # 获取对应的处理器
                 handler = QuestionHandlerFactory.get_handler(question.type)

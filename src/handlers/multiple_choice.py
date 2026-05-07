@@ -6,8 +6,8 @@ class MultipleChoiceHandler(BaseHandler):
     def execute(self, page, question):
         target = list(question.answer) if question.answer else [random.choice(['A', 'B'])]
         page.wait_for_timeout(1500)
-        print("当前 URL:", page.url)
-        print("页面中 .question-item 的数量:", page.locator(".question-item").count())
+        # print("当前 URL:", page.url)
+        # print("页面中 .question-item 的数量:", page.locator(".question-item").count())
 
 
         options = page.locator(".question-item").all()
