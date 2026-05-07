@@ -1,0 +1,5617 @@
+{
+  "questions": [
+    {
+      "question_id": "3547276",
+      "question_text": "国家建立国家安全审查和监管的制度和机制，对影响或者可能影响国家安全的（）、特定物项和关键技术等进行国家安全审查。",
+      "question_type": "填空题",
+      "answer": "外商投资",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547087",
+      "question_text": "西方敌对势力对我国实施“西化”“分化”“遏制”的图谋与活动将长期存在，政治安全领域风险错综复杂。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547015",
+      "question_text": "国家建立健全网络安全（）制度。",
+      "question_type": "填空题",
+      "answer": "认证、检测和风险评估",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547018",
+      "question_text": "国家加强对国家安全工作的（），确保工作顺利开展。",
+      "question_type": "填空题",
+      "answer": "经费保障",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3546875",
+      "question_text": "坚持以军事、科技、文化、社会安全为保障，下列说法正确的有()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "坚持党对人民军队的绝对领导是维护军事安全的根本所在",
+        "B": "实现高水平科技自立自强是维护科技安全的关键",
+        "C": "推进文化自信自强对维护文化安全具有重要意义",
+        "D": "完善社会治理体系是维护社会安全的基础性工作"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547241",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:构建完善(）内容体系。",
+      "question_type": "填空题",
+      "answer": "国家安全教育",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547270",
+      "question_text": "国家加强边防、海防和空防建设，采取一切必要的防卫和管控措施，保卫（）安全，维护国家领土主权和海洋权益。",
+      "question_type": "填空题",
+      "answer": "领陆、领水、领空",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3546924",
+      "question_text": "文化安全的法治保障需要（）",
+      "question_type": "多选题",
+      "answer": "AC",
+      "options": {
+        "A": "完善文化领域法律法规，打击非法文化活动",
+        "B": "依靠行政命令管控文化市场",
+        "C": "加强文化市场监管，规范内容传播",
+        "D": "忽视文化安全立法建设"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3546959",
+      "question_text": "统筹发展和安全的国际经验借鉴原则是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "立足国情，避免盲目照搬",
+        "B": "吸收先进治理理念与技术",
+        "C": "维护国家主权与核心利益",
+        "D": "推动国际合作与规则完善"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547235",
+      "question_text": "《国家安全法》定:国家加强国家安全新闻宣传和舆论引导，通过多种形式开展国家安全宣传教育活动，将（）纳入国民教育体系和公务员教育培训体系，增强全民国家安全意识。",
+      "question_type": "填空题",
+      "answer": "国家安全教育",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 14:33:14"
+    },
+    {
+      "question_id": "3547041",
+      "question_text": "中国共产党在改革开放和社会主义现代化建设新时期，提出 “深挖洞，广积粮，不称霸” 的战略思想。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：“深挖洞，广积粮，不称霸” 是社会主义革命和建设时期，以毛泽东同志为主要代表的中国共产党人提出的战略思想，不是改革开放和社会主义现代化建设新时期，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3547073",
+      "question_text": "网络安全主要是指网络信息的安全，不涉及网络运行的安全。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：网络安全包括网络运行安全和网络信息安全，网络运行安全是网络安全的重要组成部分，关乎网络系统的稳定运行。",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3546930",
+      "question_text": "总体国家安全观的理论创新价值在于（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "丰富了国家安全理论体系",
+        "B": "提出了系统的安全治理方案",
+        "C": "强调安全与发展的辩证统一",
+        "D": "突破传统安全观的单一维度"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3546972",
+      "question_text": "以人民安全为宗旨的国际意义在于（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "体现人类安全共同体的价值追求",
+        "B": "为全球安全治理提供人民视角",
+        "C": "推动国际安全规则更加以人为本",
+        "D": "主导国际安全事务话语权"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3547156",
+      "question_text": "贯彻落实总体国家安全观必须既重视发展问题，又重视()问题。",
+      "question_type": "填空题",
+      "answer": "安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3546950",
+      "question_text": "党的领导在国家安全制度建设中的作用是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "顶层设计国家安全制度框架",
+        "B": "推动制度执行与监督落实",
+        "C": "适应形势变化优化制度体系",
+        "D": "保障制度符合人民根本利益"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3547213",
+      "question_text": "《中华人民共和国宪法》规定:中华人民共和国公民有维护国家统一和（）的义务。",
+      "question_type": "填空题",
+      "answer": "全国各民族团结",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3546955",
+      "question_text": "统筹发展和安全的方法论强调（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "系统思维，把握二者内在联系",
+        "B": "底线思维，防范发展中的安全风险",
+        "C": "战略思维，制定长远协同规划",
+        "D": "创新思维，探索平衡发展路径"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3547236",
+      "question_text": "2016年首个全民国家安全教育日来临之际，习近平总书记指出:要以设立全民国家安全教育日为契机，以总体国家安全观为指导，全面实施国家安全法，深入开展国家安全宣传教育，切实增强全民（）意识。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3547169",
+      "question_text": "2013年11月12日中共()全会决定设立国家安全委员会。",
+      "question_type": "填空题",
+      "answer": "十八届三中",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:29:41"
+    },
+    {
+      "question_id": "3547071",
+      "question_text": "维护国土安全主要依靠军事力量，其他方面作用不大。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：维护国土安全需要综合运用军事、外交、经济、法律等多种手段，并非仅依靠军事力量。",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3546914",
+      "question_text": "极地安全治理的国际合作方向有（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "共同保护极地环境，应对气候变化",
+        "B": "和平利用极地资源，避免无序开发",
+        "C": "加强极地科研合作，共享监测数据",
+        "D": "争夺极地领土主权，增强军事存在"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3546864",
+      "question_text": "总体国家安全观的基本特征包括()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "涵盖领域上的全面性",
+        "B": "认识方法上的系统性",
+        "C": "实践推进上的统筹性",
+        "D": "安全效果上的可持续性"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3546869",
+      "question_text": "总体国家安全观提出的政治意义包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "为增强做好新时代国家安全工作的政治判断力、政治领悟力和政治执行力提供了指导",
+        "B": "党的十九大将坚持总体国家安全观纳入新时代坚持和发展中国特色社会主义的基本方略，并写入党章",
+        "C": "党的二十大进一步强调，必须坚定不移贯彻总体国家安全观",
+        "D": "反映了全党全国人民的共同意志"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3547185",
+      "question_text": "《国家安全法》规定:国家健全统一归口、反应灵敏、准确高效、运转顺畅的情报信息收集、研判和使用制度，建立情报信息工作协调机制，实现情报信息的及时收集、()、有效使用和共享。",
+      "question_type": "填空题",
+      "answer": "准确研判",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3547315",
+      "question_text": "国家建立健全反恐怖主义（）共享机制，提高反恐能力。",
+      "question_type": "填空题",
+      "answer": "情报信息",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3547197",
+      "question_text": "《国家安全法》规定:国家安全危机事件发生后，履行国家安全危机管控职责的有关机关，应当按照规定准确、及时报告，并依法将有关（）危机事件发生、发展、管控处置及善后情况统一向社会发布。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3547188",
+      "question_text": "《国家安全法》规定:国家健()风险监测预警制度，根据国家安全风险程度，及时发布相应风险预警。",
+      "question_type": "填空题",
+      "answer": "全国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3547274",
+      "question_text": "国家鼓励国家安全领域科技创新，发挥科技在维护国家安全中的（）作用。",
+      "question_type": "填空题",
+      "answer": "支撑",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-20 15:30:35"
+    },
+    {
+      "question_id": "3546939",
+      "question_text": "总体国家安全观的理论内涵体现为（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "全面性（）覆盖各领域、各层次安全",
+        "B": "动态性（）适应时代变化调整安全策略",
+        "C": "协同性（）强化领域间安全联动",
+        "D": "开放性（）吸收国际安全治理经验"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3546995",
+      "question_text": "数字经济安全的关键环节包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "保障数据主权，规范数据跨境流动",
+        "B": "防范网络攻击与数据泄露风险",
+        "C": "加强算法监管，避免技术滥用",
+        "D": "推动数字技术自主可控与安全应用"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3547279",
+      "question_text": "国家加强网络安全宣传教育，提高全社会的网络安全意识和水平，形成全社会共同参与促进（）的良好环境。",
+      "question_type": "填空题",
+      "answer": "网络安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3546975",
+      "question_text": "坚持以人民安全为宗旨的最终目标是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "实现人民群众的获得感、幸福感、安全感",
+        "B": "构建共建共治共享的安全格局",
+        "C": "维护社会公平正义与长治久安",
+        "D": "为人民创造良好生存发展环境"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3546981",
+      "question_text": "坚持以政治安全为根本的实践要求包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "增强政治判断力、领悟力、执行力",
+        "B": "统筹推进政治安全领域风险防控",
+        "C": "强化政治安全意识与责任担当",
+        "D": "平衡国内政治稳定与国际政治合作"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3547134",
+      "question_text": "总体国家安全观于（）年4月15日由习近平总书记中央国家安全委员会第一次会议上提出。",
+      "question_type": "填空题",
+      "answer": "2014",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3547038",
+      "question_text": "总体国家安全观提出的理论意义之一是继承创新了中华优秀传统战略文化。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观继承和发展了中华优秀传统战略文化中的忧患意识、民本思想等，赋予马克思主义国家安全理论中华民族特色，开拓出中华优秀传统战略文化思想的新阶段，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3547101",
+      "question_text": "文化安全作为国家安全的灵魂，与一个国家的政治安全、社会安全紧密相连。（ ）",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:15:25"
+    },
+    {
+      "question_id": "3547048",
+      "question_text": "总体国家安全观提出的理论意义之一是推进了世界安全理论的创新。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观立足中国自身安全，坚持推进国际共同安全，倡导新的全球安全观，超越西方旧的安全理念，为世界安全理论发展开创了新阶段，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:16:19"
+    },
+    {
+      "question_id": "3547019",
+      "question_text": "国家建立健全粮食（）管理制度，保证储备粮质量。",
+      "question_type": "填空题",
+      "answer": "储备轮换",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:16:19"
+    },
+    {
+      "question_id": "3546886",
+      "question_text": "以（）的基本经济制度，是中国特色社会主义制度的重要支柱，也是社会主义市场经济体制的根基。只有保持公有制经济的主体地位，才能保证社会主义方向。",
+      "question_type": "多选题",
+      "answer": "AB",
+      "options": {
+        "A": "公有制为主体",
+        "B": "多种所有制经济共同发展",
+        "C": "公有制为主体",
+        "D": "多种所有制经济共同发展"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:16:19"
+    },
+    {
+      "question_id": "3547083",
+      "question_text": "安全是发展的基础，稳定是强盛的前提。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:16:19"
+    },
+    {
+      "question_id": "3547206",
+      "question_text": "习近平总书记在十八届三中全会上提出的国家安全委员会四项主要职责中的第二项是“（）”。",
+      "question_type": "填空题",
+      "answer": "推进国家安全法治建设",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:16:19"
+    },
+    {
+      "question_id": "3547253",
+      "question_text": "每年（）月（）日为全民国家安全教育日。",
+      "question_type": "填空题",
+      "answer": "4,15",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:16:19"
+    },
+    {
+      "question_id": "3546958",
+      "question_text": "统筹发展和安全对国家安全的意义在于（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "增强国家综合实力与抗风险能力",
+        "B": "保障发展成果可持续性",
+        "C": "提升国际竞争力与话语权",
+        "D": "维护国家长治久安"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3547127",
+      "question_text": "中国特色国家安全道路无需考虑国际安全形势变化。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3546996",
+      "question_text": "经济安全与国家安全的关系体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "经济安全是国家安全的物质基础",
+        "B": "国家安全战略引导经济安全发展方向",
+        "C": "经济领域风险可能演变为系统性安全危机",
+        "D": "二者需协同推进，实现良性互动"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3546991",
+      "question_text": "产业安全面临的主要风险包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "核心技术依赖进口导致的“卡脖子”问题",
+        "B": "产业链供应链断裂风险",
+        "C": "国际产业竞争中的技术与市场挤压",
+        "D": "产业结构失衡与低端化陷阱"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3547250",
+      "question_text": "《关于加强大中小学国家安全教育的实施意见》要求:()组织开展高校国家安全教育教材和中小学教材修订审查。",
+      "question_type": "填空题",
+      "answer": "教育部",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3547123",
+      "question_text": "保障人民安全等同于解决民生问题，无需涉及其他安全领域。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3547026",
+      "question_text": "国土安全主要是指国家领土范围内的陆地安全。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国土安全主要是指国家主权范围内的领土、领海、领空的安全，包括领土主权不受侵犯、领土完整不被分裂，以及领土、领海、领空及自然资源、基础设施等要素的安全，不只是陆地安全，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3547264",
+      "question_text": "关键信息基础设施的具体范围和安全保护办法由（）制定。",
+      "question_type": "填空题",
+      "answer": "国务院",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:11"
+    },
+    {
+      "question_id": "3546867",
+      "question_text": "总体国家安全观的科学内涵包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "十个坚持",
+        "B": "五个统筹",
+        "C": "涵盖的重点领域",
+        "D": "基本特征"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547246",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:统筹利用现有资源，鼓励支持各地遴选建设一批符合()要求的综合性教育实践基地、满足不同领域国家安全教育需求的专题性教育实践基地。",
+      "question_type": "填空题",
+      "answer": "总体国家安全观",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547016",
+      "question_text": "国家加强对核安全（）的统筹协调。",
+      "question_type": "填空题",
+      "answer": "国际合作",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547165",
+      "question_text": "()安全就是要发展和安全并重以实现持久安全。",
+      "question_type": "填空题",
+      "answer": "可持续安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547072",
+      "question_text": "资源安全只涉及自然资源的供应问题，与资源的利用效率无关。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：资源安全既包括资源的供应稳定，也涉及资源的合理利用和高效利用，提高资源利用效率对保障资源安全至关重要。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547040",
+      "question_text": "总体国家安全观的实践推进上的统筹性，强调安全和发展要共同发力、同步推进、一体建设。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：实践推进上的统筹性体现了安全和发展辩证统一的关系，强调二者共同发力、同步推进、一体建设，该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547294",
+      "question_text": "国家健全国家安全风险监测预警制度，建立国家安全风险信息（）机制。",
+      "question_type": "填空题",
+      "answer": "共享",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547217",
+      "question_text": "《国家安全法》规定:坚持（）对国家安全工作的领导，建立集中统一、高效权威的国家安全领导体制。",
+      "question_type": "填空题",
+      "answer": "中国共产党",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3547096",
+      "question_text": "生态修复是一项系统工程，短期内难以见效，应坚持绿色发展，改善生态环境。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:17:59"
+    },
+    {
+      "question_id": "3546863",
+      "question_text": "统筹发展和安全，要坚持科学思维方法，具体包括()。",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "坚持系统观念",
+        "B": "坚持底线思维和极限思维",
+        "C": "强化风险意识",
+        "D": "坚持创新思维"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547227",
+      "question_text": "习近平总书记在十八届三中全会上提出的国家安全委员会四项主要职责中的第一项就是“()”。",
+      "question_type": "填空题",
+      "answer": "制定和实施国家安全战略",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3546896",
+      "question_text": "社区落实总体国家安全观的有效途径包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "开展国家安全知识宣传讲座和培训",
+        "B": "组织居民参与安全隐患排查活动",
+        "C": "建立基层安全信息反馈机制",
+        "D": "加强与公安、消防等部门的协作"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547173",
+      "question_text": "()统筹协调涉及国家安全的重大事项和重要工作。",
+      "question_type": "填空题",
+      "answer": "中央国家安全委员会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547036",
+      "question_text": "总体国家安全观的 “五个统筹” 体现了贯穿于总体国家安全观的系统思维和科学方法。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：“五个统筹” 即统筹发展和安全、统筹开放和安全、统筹传统安全和非传统安全、统筹自身安全和共同安全、统筹维护国家安全和塑造国家安全，体现了系统思维和科学方法，该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547301",
+      "question_text": "国家加强对恐怖活动（）和人员的认定、打击和管控。",
+      "question_type": "填空题",
+      "answer": "组织",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547175",
+      "question_text": "中央国家安全委员会要遵循集中统一、科学谋划、统分结合、协调行动、精干高效的原则，聚焦重点，抓纲带目，紧紧围绕()安全工作的统一部署狠抓落实。",
+      "question_type": "填空题",
+      "answer": "国家",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3546919",
+      "question_text": "文化安全的本质内涵涵盖（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "维护国家文化主权和意识形态安全",
+        "B": "传承弘扬优秀传统文化与核心价值观",
+        "C": "抵御外来文化渗透和价值观入侵",
+        "D": "限制文化产业创新发展"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3546963",
+      "question_text": "统筹发展和安全的长效机制包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "动态评估机制，及时调整策略",
+        "B": "资源共享机制，优化配置效率",
+        "C": "监督考核机制，强化责任落实",
+        "D": "公众参与机制，凝聚社会合力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547259",
+      "question_text": "生态安全是国家安全体系的（）。",
+      "question_type": "填空题",
+      "answer": "重要基石",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:18:53"
+    },
+    {
+      "question_id": "3547268",
+      "question_text": "国家加强自主创新能力建设，加快发展自主可控的战略高新技术和重要领域核心关键技术，加强知识产权的（）。",
+      "question_type": "填空题",
+      "answer": "创造、运用和保护",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3547061",
+      "question_text": "总体国家安全观提出的政治意义在于指导新时代中国发展在世界大变局中开创新局，在世界乱局中化危为机。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：指导新时代中国发展在世界大变局中开创新局，在世界乱局中化危为机是总体国家安全观提出的时代意义，其政治意义在于为增强做好新时代国家安全工作的政治判断力、政治领悟力和政治执行力提供指导等，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3546973",
+      "question_text": "保障人民安全的科技支撑手段包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "利用大数据提升安全监测能力",
+        "B": "开发应急救援技术与装备",
+        "C": "运用人工智能优化安全决策",
+        "D": "强化网络安全防护技术"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3546970",
+      "question_text": "以人民安全为宗旨的制度保障有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "完善法律法规，保障公民权利",
+        "B": "健全公共安全应急管理体系",
+        "C": "加强基层安全治理能力建设",
+        "D": "建立人民监督与反馈机制"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3547005",
+      "question_text": "国家建立健全粮食（）管理制度，规范粮食市场秩序。",
+      "question_type": "填空题",
+      "answer": "流通",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3546870",
+      "question_text": "总体国家安全观涵盖的重点领域中，经济安全主要包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "维护基本经济制度安全",
+        "B": "维护经济主权安全",
+        "C": "维护经济秩序安全",
+        "D": "维护重点经济领域安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3547309",
+      "question_text": "国家建立健全数据安全（）制度，对影响国家安全的数据处理活动进行审查。",
+      "question_type": "填空题",
+      "answer": "审查",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3547271",
+      "question_text": "国家建立国家安全（），依法进行信息发布、舆论引导，维护国家安全和社会公共秩序。",
+      "question_type": "填空题",
+      "answer": "危机管控制度",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:19:48"
+    },
+    {
+      "question_id": "3546986",
+      "question_text": "政治安全的文化引领作用体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "弘扬社会主义核心价值观，凝聚政治共识",
+        "B": "强化主流意识形态的传播力与影响力",
+        "C": "抵御西方文化霸权与价值观渗透",
+        "D": "推动文化创新以增强政治安全韧性"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3547095",
+      "question_text": "随着经济全球化持续深入发展，国家间联系日益紧密，国际社会越来越成为你中有我、我中有你的命运共同体。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3547147",
+      "question_text": "总体国家安全观强调要“以()安全为保障”。",
+      "question_type": "填空题",
+      "answer": "军事、文化、社会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3546961",
+      "question_text": "统筹发展和安全的科技支撑重点是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "推动科技创新与安全技术融合",
+        "B": "加强关键领域技术自主可控",
+        "C": "利用新技术提升安全治理效能",
+        "D": "防范科技发展带来的安全风险"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3547210",
+      "question_text": "《中华人民共和国反分裂国家法》于（）颁布实施。",
+      "question_type": "填空题",
+      "answer": "38425",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3546984",
+      "question_text": "政治安全风险的主要来源包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "外部势力干涉与意识形态渗透",
+        "B": "国内政治矛盾与社会不稳定因素",
+        "C": "网络空间政治谣言与舆论攻击",
+        "D": "国际政治格局变化带来的冲击"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3547042",
+      "question_text": "总体国家安全观涵盖的重点领域中，社会安全主要包括社会治安维护、自然灾害和事故灾难应对、公共卫生事件应对等内容。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：社会安全主要包括社会治安维护、自然灾害和事故灾难应对、公共卫生事件应对、社会舆情治理等内容，该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3547113",
+      "question_text": "保障粮食安全只需提高产量，无需关注种业和储备体系。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:37:44"
+    },
+    {
+      "question_id": "3547074",
+      "question_text": "核安全是一个国家内部的事务，不需要国际合作。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：核安全是全球性课题，核材料和核技术的扩散等问题需要各国携手合作，共同维护核安全。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3547017",
+      "question_text": "国家建立健全生物安全（）机制，快速应对生物安全事件。",
+      "question_type": "填空题",
+      "answer": "应急处置",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3546980",
+      "question_text": "政治安全与其他领域安全的关系是（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "政治安全是国家安全的根本保障",
+        "B": "其他领域安全影响政治安全稳定",
+        "C": "各领域安全相互关联、协同作用",
+        "D": "政治安全独立于经济、军事安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3547046",
+      "question_text": "总体国家安全观只重视传统安全，不重视非传统安全。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观超越了传统安全和非传统安全 “非此即彼” 的思维模式，既重视传统安全，又重视非传统安全，强调传统安全和非传统安全并重 ，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3547068",
+      "question_text": "科技安全对国家安全的保障作用主要体现在推动经济发展方面，对军事安全影响较小。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：科技安全不仅推动经济发展，在军事安全方面也至关重要，如先进的军事科技能提升军队战斗力，保障国家军事安全。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3546872",
+      "question_text": "总体国家安全观提出的理论意义包括()",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "对马克思主义国家安全理论作出了重大原创性贡献",
+        "B": "继承创新了中华优秀传统战略文化",
+        "C": "推进了世界安全理论的创新",
+        "D": "为增强做好新时代国家安全工作的政治判断力、政治领悟力和政治执行力提供了指导"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3546887",
+      "question_text": "新形势下我国社会安全面临的威胁和挑战增多，特别是各种威胁和挑战联动效应明显。具体包括（）。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "暴力恐怖活动多发，严重影响社会安全",
+        "B": "社会治安问题突出，影响公众安全感",
+        "C": "社会矛盾积聚，加大社会安全风险",
+        "D": "网络公共安全问题凸显，给社会安全带来挑战"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3547070",
+      "question_text": "只要国家经济发展了，国际安全环境自然就会稳定，不需要特别关注国际安全问题。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国际安全受多种因素影响，经济发展不代表国际安全环境就会稳定，仍需积极关注和维护国际安全。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:38:23"
+    },
+    {
+      "question_id": "3547205",
+      "question_text": "1993年《国家安全法》名为“国家安全法”，实为一部“（）”。",
+      "question_type": "填空题",
+      "answer": "反间谍侦查法",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3547080",
+      "question_text": "《管子·治国》曰:“治国常富，而乱国常贫。”这说明经济发展是国家安全的前提。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3546890",
+      "question_text": "国家安全教育应注重以下哪些方面的能力培养？（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "风险识别能力",
+        "B": "应急处置能力",
+        "C": "安全防范能力",
+        "D": "安全决策能力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3547233",
+      "question_text": "《国家安全法》规定，每年（）月（）日为全民国家安全教育日。",
+      "question_type": "填空题",
+      "answer": "4,15",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3546927",
+      "question_text": "坚持以军事、科技、文化、社会安全为保障的最终目标是（）",
+      "question_type": "多选题",
+      "answer": "ACD",
+      "options": {
+        "A": "为实现中华民族伟大复兴提供全方位安全支撑",
+        "B": "追求单一领域安全而忽视协同发展",
+        "C": "构建安全共同体，维护国家长治久安",
+        "D": "提升国家综合安全能力与国际竞争力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3546945",
+      "question_text": "中国特色国家安全道路的历史经验包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "坚持独立自主，维护国家主权",
+        "B": "以人民利益为出发点和落脚点",
+        "C": "在发展中动态平衡安全需求",
+        "D": "统筹国内国际两个大局"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3547163",
+      "question_text": "()安全就是要统筹维护传统领域和非传统领域安全。",
+      "question_type": "填空题",
+      "answer": "综合",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3547288",
+      "question_text": "国家建立国家安全（）机制，统筹协调重点领域国家安全工作。",
+      "question_type": "填空题",
+      "answer": "重点领域工作协调",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:07"
+    },
+    {
+      "question_id": "3547118",
+      "question_text": "维护政治安全只需防范外部势力干涉，无需关注国内意识形态建设。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3547313",
+      "question_text": "国家建立健全国家安全（）制度，规范处置程序和措施。",
+      "question_type": "填空题",
+      "answer": "危机处置",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3546992",
+      "question_text": "维护能源安全的战略措施包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "优化能源结构，提升清洁能源占比",
+        "B": "加强能源储备，保障供应稳定性",
+        "C": "推进能源技术创新，提高利用效率",
+        "D": "拓展多元进口渠道，降低对外依存度"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3547063",
+      "question_text": "总体国家安全观的 “十个坚持” 中，坚持把防范化解国家安全风险摆在突出位置，就是要提高风险预见、预判能力，力争把可能带来重大风险的隐患发现和处置于萌芽状态。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：在总体国家安全观的 “十个坚持” 中，坚持把防范化解国家安全风险摆在突出位置，确实需要提高风险预见、预判能力，力争把可能带来重大风险的隐患发现和处置于萌芽状态，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3547078",
+      "question_text": "中国共产党领导是中国特色社会主义最本质的特征，是中国特色社会主义制度的最大优势。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3547004",
+      "question_text": "国家加强对国家安全工作的（），形成工作合力。",
+      "question_type": "填空题",
+      "answer": "统筹协调",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3546932",
+      "question_text": "坚持总体国家安全观的实践要求是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "增强忧患意识，树立底线思维",
+        "B": "统筹发展与安全，实现动态平衡",
+        "C": "依靠人民力量，凝聚安全合力",
+        "D": "推动国际合作，构建安全共同体"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3547034",
+      "question_text": "坚持总体国家安全观，就是要坚持以政治安全为宗旨，以人民安全为根本。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：坚持总体国家安全观，要坚持以人民安全为宗旨，以政治安全为根本，题干表述错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:39:46"
+    },
+    {
+      "question_id": "3547305",
+      "question_text": "国家建立健全生物安全（）制度，防范生物安全风险。",
+      "question_type": "填空题",
+      "answer": "管理",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547177",
+      "question_text": "各地区要建立健全()的国家安全工作责任制，强化维护国家安全责任，守土有责、守土尽责。",
+      "question_type": "填空题",
+      "answer": "党委统一领导",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547140",
+      "question_text": "政府的宗旨就是把（）和身体健康放在最高位置上。",
+      "question_type": "填空题",
+      "answer": "人民生命安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547115",
+      "question_text": "中国特色国家安全道路应完全照搬国外成熟的安全模式。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547296",
+      "question_text": "国家建立健全核安全（）体系，加强核安全监管能力建设。",
+      "question_type": "填空题",
+      "answer": "监管",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547303",
+      "question_text": "国家建立健全网络安全（）应急预案，提高网络安全事件应对能力。",
+      "question_type": "填空题",
+      "answer": "事件",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547102",
+      "question_text": "社会安全了，民众才能安居乐业，经济社会才能健康发展。 （ ）",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:58:45"
+    },
+    {
+      "question_id": "3547251",
+      "question_text": "我国首部《国家安全学》出版于()年。",
+      "question_type": "填空题",
+      "answer": "2004",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3547190",
+      "question_text": "《国家安全法》规定:国家建立国家安全审查和监管的制度和机制，对影响或者可能影响国家安全的外商投资、特定物项和关键技术、网络信息技术产品和服务、涉及国家安全事项的建设项目，以及其他重大事项和活动，进行(）审查，有效预防和化解国家安全风险。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3546933",
+      "question_text": "总体国家安全观的时代背景包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "国际格局深刻变革，安全威胁多元化",
+        "B": "科技革命加速，催生新型安全挑战",
+        "C": "国内发展转型，安全需求复杂化",
+        "D": "全球化深入，安全问题跨国传导"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3547277",
+      "question_text": "国家坚持社会主义先进文化前进方向，继承和弘扬中华民族优秀传统文化，培育和践行社会主义核心价值观，防范和抵制不良文化的影响，掌握意识形态领域主导权，增强文化（）和竞争力。",
+      "question_type": "填空题",
+      "answer": "整体实力",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3547290",
+      "question_text": "国家建立健全数据安全（）机制，发生数据安全事件时及时采取措施。",
+      "question_type": "填空题",
+      "answer": "应急处置",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3547234",
+      "question_text": "2020年4月15日是我国第（）个全民国家安全教育日。",
+      "question_type": "填空题",
+      "answer": "5",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3547245",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:推进()教育实践基地建设。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3546899",
+      "question_text": "媒体在传播总体国家安全观中应承担的责任有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "制作优质安全主题内容，引导正确舆论",
+        "B": "揭露危害国家安全的典型案例",
+        "C": "普及国家安全法律法规知识",
+        "D": "发挥监督作用，曝光安全隐患问题"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 16:59:26"
+    },
+    {
+      "question_id": "3547307",
+      "question_text": "国家建立健全粮食安全（）机制，确保粮食有效供给。",
+      "question_type": "填空题",
+      "answer": "保障",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3547187",
+      "question_text": "《国家安全法》规定:国家建立()风险评估机制，定期开展各领域国家安全风险调查评估。有关部门应当定期向中央国家安全领导机构提交国家安全风险评估报告。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3546888",
+      "question_text": "国家安全教育的主要目的是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "提高国家安全意识",
+        "B": "增强国家安全素养",
+        "C": "培养国家安全专业人才",
+        "D": "提高国家综合国力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3547030",
+      "question_text": "总体国家安全观的关键在 “总体”，强调国家安全是各领域安全的机械叠加。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观的关键在 “总体”，但不是各领域安全的机械叠加，而是传统安全和非传统安全有机融合、彼此融通构成的系统和整体，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3547138",
+      "question_text": "总体国家安全观强调要“以（）为宗旨”。",
+      "question_type": "填空题",
+      "answer": "人民安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3547244",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:大学生应接受国家安全系统化学习训练，增强维护（）的责任感和能力。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3547000",
+      "question_text": "国家加强对危害国家安全犯罪的（）和执法力度。",
+      "question_type": "填空题",
+      "answer": "法律适用",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3546908",
+      "question_text": "筑牢资源安全屏障的关键措施有（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "增强战略性资源自主保障能力",
+        "B": "建立资源储备体系，防范供应风险",
+        "C": "推动资源循环利用，提高利用效率",
+        "D": "完全依赖进口资源，降低成本"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3546911",
+      "question_text": "海外利益安全的保障措施有（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "完善领事保护机制，保护海外公民安全",
+        "B": "加强风险预警，防范地区动荡与恐怖威胁",
+        "C": "推动海外企业合规经营，维护商业利益",
+        "D": "减少海外投资与人员往来，降低风险"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:06"
+    },
+    {
+      "question_id": "3546898",
+      "question_text": "践行总体国家安全观的社会合力体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "政府、企业、社会组织协同合作",
+        "B": "全民参与安全宣传与防护行动",
+        "C": "构建多层次、多领域的安全防线",
+        "D": "形成全社会维护国家安全的文化氛围"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3546909",
+      "question_text": "核安全领域的国际合作重点包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "防止核扩散，维护核不扩散体系",
+        "B": "促进核能和平利用，确保技术安全",
+        "C": "加强核设施监管与核废料处理协作",
+        "D": "开展核军备竞赛，提升军事威慑力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3547103",
+      "question_text": "我国现在没有处在刑事犯罪的高发期。 （ ）",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3547151",
+      "question_text": "总体国家安全观强调要“以()为依托”。",
+      "question_type": "填空题",
+      "answer": "国际安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3547282",
+      "question_text": "国家建立国家安全（）制度，完善情报信息工作协调机制。",
+      "question_type": "填空题",
+      "answer": "情报信息",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3547079",
+      "question_text": "道路问题是关系党的事业兴衰成败第一位的问题，道路就是党的生命。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3547100",
+      "question_text": "政治安全是实现经济安全的重要基础。（ ）",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:00:46"
+    },
+    {
+      "question_id": "3547077",
+      "question_text": "贯彻总体国家安全观，要坚持党对国家安全工作的绝对领导。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:01:28"
+    },
+    {
+      "question_id": "3546965",
+      "question_text": "人民安全在国家安全体系中的地位体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "国家安全工作的根本目的",
+        "B": "检验国家安全成效的根本标准",
+        "C": "国家安全战略的核心价值导向",
+        "D": "国家安全工作的力量源泉"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:01:28"
+    },
+    {
+      "question_id": "3546918",
+      "question_text": "科技安全的核心任务包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "实现关键核心技术自主可控",
+        "B": "防范技术垄断与“卡脖子”风险",
+        "C": "加强科技伦理治理，规范技术应用",
+        "D": "完全依赖国际技术合作"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:01:28"
+    },
+    {
+      "question_id": "3547174",
+      "question_text": "成立()的目的就是要更好适应我国国家安全面临的新形势新任务，建立集中统一、高效权威的国家安全体制，加强对国家安全工作的领导。",
+      "question_type": "填空题",
+      "answer": "国家安全委员会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:01:28"
+    },
+    {
+      "question_id": "3547171",
+      "question_text": "2014年1月24日中央政治局会议决定()正式成立。",
+      "question_type": "填空题",
+      "answer": "中央国家安全委员会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:01:28"
+    },
+    {
+      "question_id": "3547135",
+      "question_text": "当前我国国家安全的（）和外延比历史上任何时候都要丰富",
+      "question_type": "填空题",
+      "answer": "内涵",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:01:28"
+    },
+    {
+      "question_id": "3547306",
+      "question_text": "国家加强对国家安全工作的（），完善国家安全领导体制。",
+      "question_type": "填空题",
+      "answer": "组织领导",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3547088",
+      "question_text": "对我国而言，军事安全最为核心的内容是中国共产党执政地位的巩固和国家政治秩序的稳定。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3546895",
+      "question_text": "网络空间践行总体国家安全观，应做到（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "不传播危害国家安全的有害信息",
+        "B": "保护个人及他人隐私，防范网络诈骗",
+        "C": "遵守网络规则，抵制网络谣言与暴力",
+        "D": "积极举报网络违法犯罪行为"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3547132",
+      "question_text": "总体国家安全观的“共同安全”理念排斥本国核心利益。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3547310",
+      "question_text": "国家加强对网络安全（）的安全审查。",
+      "question_type": "填空题",
+      "answer": "产品和服务",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3547211",
+      "question_text": "《中华人民共和国反恐怖主义法》于（）日颁布，2016年",
+      "question_type": "填空题",
+      "answer": "2015年12月27",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3547215",
+      "question_text": "《中华人民共和国宪法》规定:中华人民共和国公民有维护祖国的安全、荣誉和利益的义务，不得有危害祖国的（）的行为。",
+      "question_type": "填空题",
+      "answer": "安全、荣誉和利益",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:08"
+    },
+    {
+      "question_id": "3547278",
+      "question_text": "国家加强金融基础设施建设，保障金融基础设施安全稳定运行，提高防范和化解（）能力。",
+      "question_type": "填空题",
+      "answer": "金融风险",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547025",
+      "question_text": "总体国家安全观的 “五个统筹” 中，统筹发展和安全是指发展比安全更重要。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：统筹发展和安全，强调发展和安全并重，二者相辅相成，不可偏废，并非发展比安全更重要，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547219",
+      "question_text": "《国家安全法》规定:国家制定并不断完善国家安全战略，全面评估国际、国内安全形势，明确（）战略的指导方针、中长期目标、重点领域的国家安全政策、工作任务和措施。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547003",
+      "question_text": "国家建立健全生物安全（）制度，科学防范生物安全风险。",
+      "question_type": "填空题",
+      "answer": "风险评估",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547295",
+      "question_text": "国家加强对关键信息基础设施的（），保障网络安全。",
+      "question_type": "填空题",
+      "answer": "安全防护",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547049",
+      "question_text": "总体国家安全观的 “五个统筹” 体现了孤立看待安全问题的思维。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：“五个统筹” 体现了贯穿于总体国家安全观的系统思维和科学方法，强调从整体和联系的角度看待安全问题，而不是孤立看待，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547180",
+      "question_text": "《国家安全法》规定:国家建立国家安全工作督促检查和()机制，确保国家安全战略和重大部署贯彻落实。",
+      "question_type": "填空题",
+      "answer": "责任追究",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:02:46"
+    },
+    {
+      "question_id": "3547283",
+      "question_text": "国家建立健全核安全（）体系，明确核设施营运单位、核材料持有单位以及其他有关单位的责任。",
+      "question_type": "填空题",
+      "answer": "责任",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:03:32"
+    },
+    {
+      "question_id": "3547257",
+      "question_text": "国家加强国家安全新闻宣传和舆论引导，通过多种形式开展国家安全宣传教育活动，将国家安全教育纳入（）和公务员教育培训体系。",
+      "question_type": "填空题",
+      "answer": "国民教育体系",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:03:32"
+    },
+    {
+      "question_id": "3546891",
+      "question_text": "经济安全的主要内容包括（）。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "经济制度安全",
+        "B": "经济秩序安全",
+        "C": "经济主权安全",
+        "D": "经济发展安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:03:32"
+    },
+    {
+      "question_id": "3547097",
+      "question_text": "水土流失、地下水严重超采、土壤退化、面源污染加重已成为制约农业可持续发展的突出矛盾。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:03:32"
+    },
+    {
+      "question_id": "3546877",
+      "question_text": "下列属于国土安全范畴的有()",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "领陆安全",
+        "B": "领水安全",
+        "C": "领空安全",
+        "D": "太空安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:03:32"
+    },
+    {
+      "question_id": "3546936",
+      "question_text": "贯彻总体国家安全观的基础工作包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "加强国家安全宣传教育",
+        "B": "完善国家安全法律法规",
+        "C": "提升全民安全意识与能力",
+        "D": "建立常态化风险排查机制"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:03:32"
+    },
+    {
+      "question_id": "3547011",
+      "question_text": "国家建立健全国家安全（）储备保障制度。",
+      "question_type": "填空题",
+      "answer": "应急物资",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:17"
+    },
+    {
+      "question_id": "3547157",
+      "question_text": "贯彻落实总体国家安全观必须既重视自身安全，又重视()安全。",
+      "question_type": "填空题",
+      "answer": "共同",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:17"
+    },
+    {
+      "question_id": "3547136",
+      "question_text": "当前我国国家安全的（）领域比历史上任何时候都要宽广",
+      "question_type": "填空题",
+      "answer": "时空",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:17"
+    },
+    {
+      "question_id": "3546879",
+      "question_text": "关于总体国家安全观内涵的丰富和完善，下列说法中正确的有()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "明确在总体国家安全观指导下维护国家安全是党和国家的一项基础性工作",
+        "B": "明确坚持总体国家安全观是新时代坚持和发展中国特色社会主义的基本方略之一",
+        "C": "明确要把贯彻总体国家安全观、防范化解重大风险贯穿国家发展各领域全过程",
+        "D": "明确坚持系统思维构建大安全格局"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:17"
+    },
+    {
+      "question_id": "3546937",
+      "question_text": "总体国家安全观中的\"共同安全\"理念指（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "通过国际合作实现各国安全利益共赢",
+        "B": "反对零和博弈与单边安全保护",
+        "C": "推动构建人类命运共同体",
+        "D": "强调本国安全优先于他国安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:17"
+    },
+    {
+      "question_id": "3546976",
+      "question_text": "政治安全在国家安全体系中的核心地位体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "为其他领域安全提供方向指引",
+        "B": "保障国家主权、政权和制度稳定",
+        "C": "维护意识形态领域安全",
+        "D": "确保国家安全战略的正确实施"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:17"
+    },
+    {
+      "question_id": "3547012",
+      "question_text": "国家加强对粮食（）安全的支持和保护，稳定粮食产能。",
+      "question_type": "填空题",
+      "answer": "生产",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3547265",
+      "question_text": "国家坚持和平利用核能和核技术，加强国际合作，防止核扩散，完善防扩散机制，确保核设施和核材料的安全，防范和应对（）威胁。",
+      "question_type": "填空题",
+      "answer": "核恐怖主义",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3547051",
+      "question_text": "总体国家安全观的实践意义在于它是新时代国家安全工作的根本遵循和行动指南。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观是对党领导国家安全工作实践经验的系统理论总结，是新时代国家安全工作的根本遵循和行动指南 ，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3546993",
+      "question_text": "粮食安全的保障体系需聚焦（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "稳定粮食产能，严守耕地保护红线",
+        "B": "完善粮食储备与应急管理机制",
+        "C": "提升农业科技水平，保障种业安全",
+        "D": "加强国际粮食贸易合作与风险防控"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3546923",
+      "question_text": "科技安全的关键举措有（）",
+      "question_type": "多选题",
+      "answer": "AC",
+      "options": {
+        "A": "强化科技自主创新，完善技术安全治理体系",
+        "B": "限制科研人员流动以保障安全",
+        "C": "加强知识产权保护，防范技术泄密",
+        "D": "依赖国外技术标准与设备"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3547260",
+      "question_text": "国家安全战略贯彻落实总体国家安全观，涵盖政治、国土、军事、经济、文化、社会、科技、网络、（）、资源、核等重点领域。",
+      "question_type": "填空题",
+      "answer": "生态",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3547152",
+      "question_text": "总体国家安全观强调要“走出一条()国家安全道路”。",
+      "question_type": "填空题",
+      "answer": "中国特色",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 17:04:58"
+    },
+    {
+      "question_id": "3546861",
+      "question_text": "中国特色国家安全道路的重要特征包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "坚持党的绝对领导，完善集中统一、高效权威的国家安全领导体制",
+        "B": "坚持捍卫国家主权和领土完整，维护边疆、边境、周边安定有序",
+        "C": "坚持统筹发展和安全，推动高质量发展和高水平安全动态平衡",
+        "D": "坚持总体战，统筹传统安全和非传统安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3546982",
+      "question_text": "政治安全领域的核心利益包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "国家统一与领土完整",
+        "B": "政治制度与意识形态安全",
+        "C": "国家主权与政权稳定",
+        "D": "国际政治话语权"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3547150",
+      "question_text": "中华人民共和国中央军事委员会领导()武装力量。",
+      "question_type": "填空题",
+      "answer": "全国",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3546985",
+      "question_text": "坚持以政治安全为根本的战略定力要求是（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "坚定维护中国特色社会主义政治制度",
+        "B": "抵制错误政治思潮与价值观",
+        "C": "保持政治安全战略的稳定性与连续性",
+        "D": "盲目照搬国外政治模式"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3547284",
+      "question_text": "国家建立健全生态保护（）制度，加强生态保护修复。",
+      "question_type": "填空题",
+      "answer": "补偿",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3547289",
+      "question_text": "国家加强网络安全（）体系建设，提升网络安全保护能力。",
+      "question_type": "填空题",
+      "answer": "标准",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3547223",
+      "question_text": "《国家安全法》规定:维护国家安全，应当坚持()、标本兼治，专门工作与群众路线相结合，充分发挥专门机关和其他有关机关维护国家安全的职能作用，广泛动员公民和组织，防范、制止和依法惩治危害国家安全的行为。",
+      "question_type": "填空题",
+      "answer": "预防为主",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:13"
+    },
+    {
+      "question_id": "3546952",
+      "question_text": "统筹发展和安全的辩证关系体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "发展是安全的基础，安全是发展的保障",
+        "B": "安全为发展创造稳定环境",
+        "C": "发展水平决定安全保障能力",
+        "D": "二者需动态平衡、协同推进"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3546862",
+      "question_text": "推进国家安全体系和能力现代化的重点任务主要有()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "不断健全国家安全体系",
+        "B": "增强维护国家安全能力",
+        "C": "提高公共安全治理水平",
+        "D": "完善社会治理体系"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3547024",
+      "question_text": "中国共产党在社会主义革命和建设时期，将保卫新生的人民民主政权，维护国家独立、主权和领土完整作为国家安全工作的首要任务。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：在社会主义革命和建设时期，受当时国际环境影响，中国共产党确实将保卫新生政权，维护国家独立、主权和领土完整作为首要任务，表述正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3546978",
+      "question_text": "政治安全的主要范畴涵盖（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "国家主权安全与政权安全",
+        "B": "政治制度安全与意识形态安全",
+        "C": "政策决策安全与政治秩序安全",
+        "D": "国际政治环境安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3546878",
+      "question_text": "维护国家安全，是坚持和发展中国特色社会主义，实现“两个一百年”奋斗目标和中华民族伟大复兴中国梦的重要保障。国家安全十分重要，国家安全（）。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "直接关乎国家主权独立和领土完整",
+        "B": "是人民安居乐业、幸福生活的保障",
+        "C": "是社会稳定、长治久安的基石",
+        "D": "是实现中华民族伟大复兴中国梦的重要前提"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3546951",
+      "question_text": "中国特色国家安全道路的实践成果包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "维护国家主权与领土完整",
+        "B": "保障经济社会持续健康发展",
+        "C": "提升国际安全影响力",
+        "D": "构建全民参与的安全格局"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3547139",
+      "question_text": "国家安全工作归根结底是保障（），为群众安居乐业提供坚强保",
+      "question_type": "填空题",
+      "answer": "人民利益",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:19:58"
+    },
+    {
+      "question_id": "3546915",
+      "question_text": "筑牢国家安全屏障的实践方法强调（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "运用系统思维，统筹各领域安全",
+        "B": "坚持底线思维，防范重大风险",
+        "C": "依靠法治思维，完善安全治理体系",
+        "D": "依赖短期应急措施，忽视长效机制"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:20:39"
+    },
+    {
+      "question_id": "3547292",
+      "question_text": "国家建立健全粮食储备（）制度，提升粮食应急保障能力。",
+      "question_type": "填空题",
+      "answer": "管理",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:20:39"
+    },
+    {
+      "question_id": "3546956",
+      "question_text": "统筹发展和安全的制度保障包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "完善国家安全与发展协同机制",
+        "B": "强化法律法规的衔接配套",
+        "C": "建立跨部门协调联动机制",
+        "D": "健全风险评估与预警体系"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:20:39"
+    },
+    {
+      "question_id": "3547293",
+      "question_text": "国家加强对危害国家安全犯罪的（）。",
+      "question_type": "填空题",
+      "answer": "情报搜集、防范和打击",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:20:39"
+    },
+    {
+      "question_id": "3547124",
+      "question_text": "政治安全是其他领域安全的根本保障，决定国家安全战略方向。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:21:19"
+    },
+    {
+      "question_id": "3547031",
+      "question_text": "国家安全工作是国家安全机关的职责，与普通民众无关。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国家安全，人人有责，维护国家安全是全民责任，普通民众也有维护国家安全的法定义务，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:21:19"
+    },
+    {
+      "question_id": "3547248",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:在各级教师培训计划中增加()教学培训内容。",
+      "question_type": "填空题",
+      "answer": "国家安全教育",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:21:19"
+    },
+    {
+      "question_id": "3547122",
+      "question_text": "发展高新技术可能带来安全风险，因此应限制科技领域发展。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:21:19"
+    },
+    {
+      "question_id": "3547035",
+      "question_text": "总体国家安全观涵盖的重点领域是固定不变的。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观涵盖的重点领域是根据安全形势的发展而不断扩展的，如生物、太空等领域安全都是随着国家安全实践的发展而被纳入的，不是固定不变的，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:21:19"
+    },
+    {
+      "question_id": "3547231",
+      "question_text": "中央政治局审议通过《国家安全战略纲要》时提出中央政治局审议通过《国家安全战略纲要》时提出要求:运筹好大国关系，塑造周边安全环境，加强同发展中国家的团结合作，积极参与地区和全球治理，为（）作出应有贡献。",
+      "question_type": "填空题",
+      "answer": "世界和平与发展",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:21:19"
+    },
+    {
+      "question_id": "3547198",
+      "question_text": "《国家安全法》规定:国家安全威胁和危害得到控制或者消除后，应当及时解除管控处置措施，做好（）工作。",
+      "question_type": "填空题",
+      "answer": "善后",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:02"
+    },
+    {
+      "question_id": "3546892",
+      "question_text": "争做总体国家安全观坚定践行者，公民应做到以下哪些方面？",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "学习国家安全法律法规，明确自身义务",
+        "B": "发现危害国家安全行为及时向有关部门报告",
+        "C": "保守国家秘密，不随意泄露敏感信息",
+        "D": "积极参与国家安全宣传教育活动"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:02"
+    },
+    {
+      "question_id": "3547106",
+      "question_text": "中国特色国家安全道路的核心是坚持党的绝对领导。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:02"
+    },
+    {
+      "question_id": "3547229",
+      "question_text": "中央政治局中央政治局审议通过《国家安全战略纲要》时提出中央政治局审议通过《国家安全战略纲要》时提出审议通过《国家安全战略纲要》时指出:制定和实施《国家安全战略纲要》，是有效维护国家安全的迫切需要，是完善中国特色社会主义制度、推进（）现代化的必然要求。",
+      "question_type": "填空题",
+      "answer": "国家治理体系和治理能力",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:02"
+    },
+    {
+      "question_id": "3547226",
+      "question_text": "2004年9月中共十六届四中全会通过的《关于加强党的执政能力建设的决定》，首次提出“()”的任务。",
+      "question_type": "填空题",
+      "answer": "完善国家安全战略",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:02"
+    },
+    {
+      "question_id": "3547162",
+      "question_text": "()安全就是要尊重和保障每一个国家安全。",
+      "question_type": "填空题",
+      "answer": "共同",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:02"
+    },
+    {
+      "question_id": "3546942",
+      "question_text": "坚持中国特色国家安全道路的实践要求是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "把党的领导贯穿安全工作全过程",
+        "B": "结合国情制定差异化安全策略",
+        "C": "强化顶层设计与基层落实相结合",
+        "D": "平衡国内安全需求与国际责任"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:46"
+    },
+    {
+      "question_id": "3547256",
+      "question_text": "反间谍工作坚持中央统一领导，坚持（）、依法惩治、标本兼治的原则。",
+      "question_type": "填空题",
+      "answer": "专门工作与群众路线相结合",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:46"
+    },
+    {
+      "question_id": "3546964",
+      "question_text": "以人民安全为宗旨的核心内涵包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "把人民利益作为国家安全工作的出发点",
+        "B": "保障人民生命、财产和发展安全",
+        "C": "依靠人民力量维护国家安全",
+        "D": "让安全成果惠及全体人民"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:46"
+    },
+    {
+      "question_id": "3547230",
+      "question_text": "中央政治局审议通过《国家安全战略纲要》时提出，坚持正确（），实现全面、共同、合作、可持续安全，在积极维护我国利益的同时，促进世界各国共同繁荣。",
+      "question_type": "填空题",
+      "answer": "义利观",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:46"
+    },
+    {
+      "question_id": "3546900",
+      "question_text": "维护国家安全的法治保障需要（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "完善国家安全法律法规体系",
+        "B": "加强执法力度，严惩违法犯罪行为",
+        "C": "开展法治宣传教育，提升全民守法意识",
+        "D": "强化司法保障，确保法律有效实施"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:22:46"
+    },
+    {
+      "question_id": "3547183",
+      "question_text": "《国家安全法》规定:国家建立中央与地方之间、部门之间、军地之间以及地区之间关于()的协同联动机制。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:23:26"
+    },
+    {
+      "question_id": "3546928",
+      "question_text": "总体国家安全观的核心要义包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "以人民安全为宗旨",
+        "B": "以政治安全为根本",
+        "C": "以经济安全为基础",
+        "D": "以军事、科技、文化、社会安全为保障"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:23:26"
+    },
+    {
+      "question_id": "3546902",
+      "question_text": "以下哪些属于筑牢生态安全屏障的重要举措？（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "划定生态保护红线，限制过度开发",
+        "B": "推进生态修复工程，提升生态系统稳定性",
+        "C": "加强生物多样性保护，防范物种入侵",
+        "D": "加大高污染产业发展力度"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:23:26"
+    },
+    {
+      "question_id": "3547193",
+      "question_text": "《国家安全法》规定:发生危及（）的重大事件，中央有关部门和有关地方根据中央国家安全领导机构的统一部署，依法启动应急预案，采取管控处置措施。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:23:26"
+    },
+    {
+      "question_id": "3547221",
+      "question_text": "《国家安全法》规定:国家健全国家安全法律制度体系，推动国家安全()建设。",
+      "question_type": "填空题",
+      "answer": "法治",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:23:26"
+    },
+    {
+      "question_id": "3547224",
+      "question_text": "《国家安全法》规定:维护国家安全，应当坚持互信、互利、平等、协作，积极同外国政府和国际组织开展安全交流合作，履行国际安全义务，促进共同安全，维护()。",
+      "question_type": "填空题",
+      "answer": "世界和平与发展",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:23:26"
+    },
+    {
+      "question_id": "3547300",
+      "question_text": "国家建立健全粮食（）监测预警体系，保障粮食供应稳定。",
+      "question_type": "填空题",
+      "answer": "市场",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:25:19"
+    },
+    {
+      "question_id": "3547170",
+      "question_text": "习近平总书记在十八届三中全会上指出:国家安全委员会主要职责是制定和实施国家安全战略，推进国家安全()，制定国家安全工作方针政策，研究解决国家安全工作中的重大问题。",
+      "question_type": "填空题",
+      "answer": "法治建设",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:25:19"
+    },
+    {
+      "question_id": "3547108",
+      "question_text": "发展和安全是对立关系，追求发展必然牺牲安全。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:25:19"
+    },
+    {
+      "question_id": "3547311",
+      "question_text": "国家建立健全核安全（）机制，保障公众知情权。",
+      "question_type": "填空题",
+      "answer": "信息公开",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:25:19"
+    },
+    {
+      "question_id": "3547114",
+      "question_text": "总体国家安全观是应对当前复杂安全形势的系统理论和实践指南。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:25:19"
+    },
+    {
+      "question_id": "3547314",
+      "question_text": "国家加强对粮食（）安全的监管，保障人民群众健康。",
+      "question_type": "填空题",
+      "answer": "质量",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:26:01"
+    },
+    {
+      "question_id": "3546953",
+      "question_text": "统筹发展和安全的实践要求包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "将安全理念贯穿发展全过程",
+        "B": "以发展成果提升安全保障能力",
+        "C": "在安全框架下推动高质量发展",
+        "D": "建立风险预判与应对机制"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:26:01"
+    },
+    {
+      "question_id": "3547258",
+      "question_text": "粮食安全是（）安全的重要组成部分。",
+      "question_type": "填空题",
+      "answer": "经济",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:26:01"
+    },
+    {
+      "question_id": "3547023",
+      "question_text": "国家安全是指一个国家没有外部威胁的状态。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国家安全是指一个国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态，以及保障、维护和塑造持续安全状态的能力，不只是没有外部威胁，还包括内部安全等多方面，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-21 22:26:01"
+    },
+    {
+      "question_id": "3547216",
+      "question_text": "《国家安全法》规定:国家安全工作应当坚持总体国家安全观，以（）为宗旨，以（）为根本，以（）为基础，以军事、文化、社会安全为保障，以促进国际安全为依托，维护各领域国家安全，构建国家安全体系，走中国特色国家安全道路。",
+      "question_type": "填空题",
+      "answer": "人民安全,政治安全,经济安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:01"
+    },
+    {
+      "question_id": "3547066",
+      "question_text": "维护政治安全，只需要关注国内的政治稳定，国际因素对我国政治安全影响较小。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国际上的意识形态渗透、外部势力干涉等因素对我国政治安全影响较大，维护政治安全需统筹国内国际两个大局。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:01"
+    },
+    {
+      "question_id": "3547033",
+      "question_text": "总体国家安全观是中国共产党历史上第一个被确立为国家安全工作指导思想的重大战略思想。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观是马克思主义国家安全理论同当代我国国家安全实践相结合、同中华优秀传统战略文化相结合的产物，是中国共产党历史上第一个被确立为国家安全工作指导思想的重大战略思想，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:01"
+    },
+    {
+      "question_id": "3547059",
+      "question_text": "总体国家安全观的 “十个坚持” 中，坚持推进国际共同安全，高举合作、创新、法治、共赢的旗帜，推动树立共同、综合、合作、可持续的全球安全观。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：“十个坚持” 中坚持推进国际共同安全，高举相关旗帜，推动树立全球安全观，符合其内容表述，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:01"
+    },
+    {
+      "question_id": "3547281",
+      "question_text": "国家加强对影响或者可能影响国家安全的（）的建设项目、重要设备和特殊生物因子的安全管理。",
+      "question_type": "填空题",
+      "answer": "生物领域",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:01"
+    },
+    {
+      "question_id": "3546926",
+      "question_text": "科技安全风险的预警机制核心包括（）",
+      "question_type": "多选题",
+      "answer": "AC",
+      "options": {
+        "A": "建立技术风险监测、评估和预警体系",
+        "B": "事后被动应对技术漏洞",
+        "C": "加强科技情报分析，预判潜在风险",
+        "D": "忽视技术安全隐患排查"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:01"
+    },
+    {
+      "question_id": "3546894",
+      "question_text": "企业维护国家安全的主要措施有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "保护核心技术与商业秘密，防范技术泄露",
+        "B": "保障生产安全，落实安全生产规范",
+        "C": "遵守数据安全法规，规范数据管理",
+        "D": "参与国家安全相关领域的协同建设"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:41"
+    },
+    {
+      "question_id": "3547204",
+      "question_text": "我国第一部《国家安全法》于1993年2月22日颁布实施，于（）年11月1日废止。",
+      "question_type": "填空题",
+      "answer": "2014",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:41"
+    },
+    {
+      "question_id": "3547273",
+      "question_text": "国家建立国家安全工作（）机制，确保国家安全战略和重大部署贯彻落实。",
+      "question_type": "填空题",
+      "answer": "督促检查和责任追究",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:41"
+    },
+    {
+      "question_id": "3547266",
+      "question_text": "国家建立国家安全（）的制度和机制，对影响或者可能影响国家安全的特定事项进行国家安全审查。",
+      "question_type": "填空题",
+      "answer": "审查和监管",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:58:41"
+    },
+    {
+      "question_id": "3546957",
+      "question_text": "发展过程中需防范的安全风险有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "经济领域的系统性风险",
+        "B": "科技领域的“卡脖子”风险",
+        "C": "社会领域的公共安全风险",
+        "D": "生态领域的环境安全风险"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:59:27"
+    },
+    {
+      "question_id": "3546903",
+      "question_text": "国际安全合作的重点领域包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "打击跨国犯罪与恐怖主义",
+        "B": "应对气候变化与环境安全",
+        "C": "维护网络空间安全与数据治理",
+        "D": "促进区域经济合作与贸易往来"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:59:27"
+    },
+    {
+      "question_id": "3546935",
+      "question_text": "总体国家安全观对传统安全观的突破体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "从单一领域安全扩展到全领域安全",
+        "B": "从被动防御转向主动塑造安全",
+        "C": "从国家本位延伸到人类共同安全",
+        "D": "从军事优先转向多维度协同保障"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 14:59:27"
+    },
+    {
+      "question_id": "3547267",
+      "question_text": "国家健全粮食安全保障体系，保护和提高粮食生产能力，完善粮食储备制度、流通体系和（）机制。",
+      "question_type": "填空题",
+      "answer": "市场调控",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:09"
+    },
+    {
+      "question_id": "3546883",
+      "question_text": "意识形态是党的一项极端重要的工作，必须旗帜鲜明地批驳意识形态的错误思潮，坚定（）。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "道路自信",
+        "B": "制度自信",
+        "C": "理论自信",
+        "D": "文化自信"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:09"
+    },
+    {
+      "question_id": "3546966",
+      "question_text": "保障人民安全的重点任务包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "防范重大公共卫生安全风险",
+        "B": "维护社会稳定，保障民生安全",
+        "C": "保护公民个人信息与隐私安全",
+        "D": "提升人民群众的安全感与获得感"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:09"
+    },
+    {
+      "question_id": "3547093",
+      "question_text": "共建“一带一路”倡议是推动构建普遍安全的人类命运共同体的重要实践平台。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:09"
+    },
+    {
+      "question_id": "3547050",
+      "question_text": "军事安全主要是指国家不受外部军事入侵和战争威胁的状态。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：军事安全主要是指国家不受外部军事入侵和战争威胁的状态，以及保障、维护和塑造持续安全状态的能力，该说法表述了军事安全的主要含义，所以正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:09"
+    },
+    {
+      "question_id": "3547228",
+      "question_text": "2015年1月23日中央政治局审议通过《国家安全战略纲要》。这是我国第（）个国家安全战略文本。",
+      "question_type": "填空题",
+      "answer": "一",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3546925",
+      "question_text": "社会安全的群众基础体现在（）",
+      "question_type": "多选题",
+      "answer": "ACD",
+      "options": {
+        "A": "发动群众参与社会治理，共建共治共享",
+        "B": "忽视基层组织在安全防控中的作用",
+        "C": "畅通群众诉求表达渠道，化解矛盾纠纷",
+        "D": "增强公众安全意识与应急能力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3547243",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:中学生应掌握国家安全基础知识，增强（）意识。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3547201",
+      "question_text": "2019年10月31日十九届四中全会全通过的《关于坚持和完善中国特色社会主义制度，推进国家治理体系和治理能力现代化若干重大问题的决定》，提出了“（）”的任务。",
+      "question_type": "填空题",
+      "answer": "完善国家安全体系",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3547037",
+      "question_text": "国家安全就是指国家不受外部军事入侵和战争威胁的状态。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国家安全是指一个国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态，以及保障、维护和塑造持续安全状态的能力，不仅仅是不受外部军事入侵和战争威胁，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3547220",
+      "question_text": "《国家安全法》规定:维护国家安全，应当遵守宪法和法律，坚持()法治原则，尊重和保障人权，依法保护公民的权利和自由。",
+      "question_type": "填空题",
+      "answer": "社会主义公有制",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3546906",
+      "question_text": "生物安全战略重点涵盖（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "防范重大新发突发传染病",
+        "B": "加强生物实验室安全管理",
+        "C": "应对生物恐怖袭击与生物武器威胁",
+        "D": "无限制发展生物科技产业"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3547252",
+      "question_text": "国家安全工作应当坚持总体国家安全观，以人民安全为宗旨，以（）安全为根本，以经济安全为基础。",
+      "question_type": "填空题",
+      "answer": "政治",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:00:49"
+    },
+    {
+      "question_id": "3546871",
+      "question_text": "总体国家安全观的基本特征有()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "涵盖领域上的全面性",
+        "B": "认识方法上的系统性",
+        "C": "实践推进上的统筹性",
+        "D": "安全效果上的可持续性"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:01:33"
+    },
+    {
+      "question_id": "3546960",
+      "question_text": "统筹发展和安全的社会基础是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "提升全民安全与发展意识",
+        "B": "鼓励社会力量参与安全治理",
+        "C": "保障民生需求，化解社会矛盾",
+        "D": "营造稳定的发展预期"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:01:33"
+    },
+    {
+      "question_id": "3546905",
+      "question_text": "促进国际安全的实践路径有（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "加强国际对话，深化安全合作机制",
+        "B": "推动构建人类命运共同体，共享安全成果",
+        "C": "参与全球安全治理，贡献中国方案",
+        "D": "采取单边行动，强制推行安全标准"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:01:33"
+    },
+    {
+      "question_id": "3546912",
+      "question_text": "数据安全的法治保障需要（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "完善数据安全法律法规，明确权责边界",
+        "B": "加强数据监管执法，打击非法采集与泄露",
+        "C": "推动数据跨境流动规则的国际协调",
+        "D": "完全禁止数据共享与开放利用"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:01:33"
+    },
+    {
+      "question_id": "3547189",
+      "question_text": "《国家安全法》规定:对可能即将发生或者已经发生的危害国家安全的事件，县级以上地方人民政府及其有关主管部门应当立即按照规定向上一级人民政府及其有关主管部门报告，必要时可以()上报。",
+      "question_type": "填空题",
+      "answer": "越级",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:01:33"
+    },
+    {
+      "question_id": "3547232",
+      "question_text": "中央政治局审议通过《国家安全战略纲要》时强调:必须毫不动摇坚持（）对国家安全工作的绝对领导，坚持集中统一、高效权威的国家安全工作领导体制。",
+      "question_type": "填空题",
+      "answer": "中国共产党",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:13"
+    },
+    {
+      "question_id": "3547184",
+      "question_text": "《国家安全法》规定:国家建立国家安全决策咨询机制，组织专家和有关方面开展对国家安全形势的分析研判，推进()的科学决策。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:13"
+    },
+    {
+      "question_id": "3546940",
+      "question_text": "中国特色国家安全道路的核心特征包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "坚持党的绝对领导",
+        "B": "立足中国国情与发展实际",
+        "C": "贯彻总体国家安全观",
+        "D": "走独立自主与合作共赢之路"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:13"
+    },
+    {
+      "question_id": "3546866",
+      "question_text": "中国共产党在不同历史时期的国家安全思想演进，以下表述正确的有()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "新民主主义革命时期，中国共产党把争取民族独立和人民解放作为重要任务，深刻认识到国家安全的重要性",
+        "B": "社会主义革命和建设时期，以毛泽东同志为主要代表的中国共产党人提出\"积极防御\"\"人民战争\"等战略思想",
+        "C": "改革开放和社会主义现代化建设新时期，中国共产党把经济建设确立为中心任务，国家安全从传统安全向非传统安全扩展",
+        "D": "中国特色社会主义进入新时代，以习近平同志为主要代表的中国共产党人创造性提出总体国家安全观"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:13"
+    },
+    {
+      "question_id": "3547009",
+      "question_text": "国家建立健全核安全（）制度，严肃追究违法违规责任。",
+      "question_type": "填空题",
+      "answer": "责任追究",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3547054",
+      "question_text": "总体国家安全观的基本特征中，涵盖领域上的全面性表明新时代我国国家安全是具有全面性的 “大安全”，只关注传统安全领域。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观涵盖领域上的全面性表明新时代我国国家安全是具有全面性的 “大安全”，强调传统安全和非传统安全并重，并非只关注传统安全领域，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3547022",
+      "question_text": "国家加强对网络安全（）的建设和保护，筑牢网络安全防线。",
+      "question_type": "填空题",
+      "answer": "基础设施",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3546907",
+      "question_text": "海洋安全的核心目标包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "维护国家海洋权益，保障领土完整",
+        "B": "确保海上通道安全，促进贸易畅通",
+        "C": "加强海洋资源开发与可持续利用",
+        "D": "放弃争议海域的主权主张"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3547275",
+      "question_text": "国家健全国家安全风险监测预警制度，统筹有关部门加强对国家安全风险信息的（）。",
+      "question_type": "填空题",
+      "answer": "收集、分析和研判",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3546989",
+      "question_text": "经济安全的核心领域包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "金融安全、产业安全",
+        "B": "能源安全、粮食安全",
+        "C": "贸易安全、数据经济安全",
+        "D": "财政安全、市场安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3547285",
+      "question_text": "国家健全国家安全风险监测预警制度，建立健全（）机制。",
+      "question_type": "填空题",
+      "answer": "国家安全风险评估",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:02:53"
+    },
+    {
+      "question_id": "3547159",
+      "question_text": "2014年年3月24日，国家主席习近平在第3届世界核安全峰会上讲话时，提出了发展和安全并重、权利和义务并重、自主和协作并重、治标和治本并重的中国()安全观。",
+      "question_type": "填空题",
+      "answer": "核",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:03:35"
+    },
+    {
+      "question_id": "3547043",
+      "question_text": "总体国家安全观是马克思主义国家安全理论同当代我国国家安全实践相结合、同中华优秀传统战略文化相结合的产物。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观是在运用马克思主义国家安全理论，结合当代我国国家安全实践，同时继承创新中华优秀传统战略文化的基础上产生的，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:03:35"
+    },
+    {
+      "question_id": "3547181",
+      "question_text": "《国家安全法》规定:各部门、各地区应当采取有效措施，贯彻实施()战略。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:03:35"
+    },
+    {
+      "question_id": "3546876",
+      "question_text": "坚持以促进国际安全为依托，需要()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "倡导新的全球安全观和地区安全观",
+        "B": "维护国际社会的共同安全",
+        "C": "推动构建新型国际关系",
+        "D": "参与全球治理体系改革和建设"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:03:35"
+    },
+    {
+      "question_id": "3546941",
+      "question_text": "党的领导在国家安全工作中的关键作用体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "把握国家安全战略方向",
+        "B": "统筹协调各方安全资源",
+        "C": "凝聚全社会安全共识",
+        "D": "推动国家安全制度创新"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:04:17"
+    },
+    {
+      "question_id": "3547297",
+      "question_text": "国家加强对生物安全（）的监测、评估和预警。",
+      "question_type": "填空题",
+      "answer": "风险",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:04:17"
+    },
+    {
+      "question_id": "3547191",
+      "question_text": "《国家安全法》规定:（）各部门依照法律、行政法规行使国家安全审查职责，依法作出国家安全审查决定或者提出安全审查意见并监督执行。",
+      "question_type": "填空题",
+      "answer": "中央国家机关",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:04:17"
+    },
+    {
+      "question_id": "3547069",
+      "question_text": "文化安全与个人日常生活关联不大，主要是国家层面需要关注的问题。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：文化安全关乎个人的价值观、思想意识等，与个人日常生活紧密相关，每个人都应关注和维护文化安全。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:04:17"
+    },
+    {
+      "question_id": "3546897",
+      "question_text": "青少年树立总体国家安全观的重要方式有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "学习国家安全课程，了解安全形势",
+        "B": "参与模拟演练，提升应急处理能力",
+        "C": "关注国际时事，增强全球安全意识",
+        "D": "传播安全知识，带动身边人共同参与"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:04:17"
+    },
+    {
+      "question_id": "3547137",
+      "question_text": "当前我国国家安全的（）因素比历史上任何时候都要复杂",
+      "question_type": "填空题",
+      "answer": "内外",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:07:37"
+    },
+    {
+      "question_id": "3547052",
+      "question_text": "在改革开放和社会主义现代化建设新时期，中国共产党把军事建设确立为党和国家的中心任务，开启了改革开放伟大历程。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：在改革开放和社会主义现代化建设新时期，中国共产党把经济建设确立为党和国家的中心任务，而非军事建设，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:07:37"
+    },
+    {
+      "question_id": "3547111",
+      "question_text": "政治安全是国家安全的根本，直接关系国家主权、政权和制度稳定。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:08:17"
+    },
+    {
+      "question_id": "3547075",
+      "question_text": "新时代大学生只要努力学习专业知识，不需要关注国家安全问题。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：新时代大学生是国家建设的主力军，维护国家安全是每个公民的责任，大学生应积极关注并参与维护国家安全。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:08:17"
+    },
+    {
+      "question_id": "3547161",
+      "question_text": "中国国际安全观的主要内容共同安全、综合安全、合作安全、()。",
+      "question_type": "填空题",
+      "answer": "可持续安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:08:17"
+    },
+    {
+      "question_id": "3547125",
+      "question_text": "经济安全的核心是保障财政收入增长，无需关注产业结构问题。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:08:17"
+    },
+    {
+      "question_id": "3546931",
+      "question_text": "总体国家安全观涵盖的领域包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "政治安全、经济安全、军事安全",
+        "B": "文化安全、社会安全、科技安全",
+        "C": "网络安全、生态安全、资源安全",
+        "D": "核安全、海外利益安全、极地安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:08:17"
+    },
+    {
+      "question_id": "3547242",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:小学生应了解（）基本常识，增强爱国主义情感。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:09:02"
+    },
+    {
+      "question_id": "3546948",
+      "question_text": "坚持中国特色国家安全道路需处理好的关系包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "党的领导与依法治理的关系",
+        "B": "独立自主与国际合作的关系",
+        "C": "安全优先与发展平衡的关系",
+        "D": "传统安全与非传统安全的关系"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:09:02"
+    },
+    {
+      "question_id": "3547099",
+      "question_text": "国家安全教育只针对成年人，不包括青少年和儿童。（ ）",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:09:41"
+    },
+    {
+      "question_id": "3547027",
+      "question_text": "坚持以人民安全为宗旨，就是要把人民的所有利益放在首位。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：坚持以人民安全为宗旨，是把保护人民生命安全摆在首位，全力保障人民财产安全，坚决维护人民其他合法权益安全，但不是人民的所有利益，表述过于绝对，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:09:41"
+    },
+    {
+      "question_id": "3547141",
+      "question_text": "总体国家安全观强调要“以（）为根本”。",
+      "question_type": "填空题",
+      "answer": "政治安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:09:41"
+    },
+    {
+      "question_id": "3546910",
+      "question_text": "太空安全的战略任务包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "维护太空活动安全，保障卫星等资产权益",
+        "B": "参与太空资源开发，推动可持续利用",
+        "C": "防范太空碎片与轨道安全风险",
+        "D": "放弃太空技术研发，依赖国际合作"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:09:41"
+    },
+    {
+      "question_id": "3546889",
+      "question_text": "以下哪些属于国家安全教育的内容？（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "网络安全",
+        "B": "生态安全",
+        "C": "资源安全",
+        "D": "海外利益安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:10:28"
+    },
+    {
+      "question_id": "3547092",
+      "question_text": "国家大柄，莫重于兵。坚持党对人民军队的绝对领导，永葆人民军队性质、宗旨、本色，是维护我国军事安全的根本所在。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:11:08"
+    },
+    {
+      "question_id": "3547142",
+      "question_text": "中华人民共和国是工人阶级领导的、以工农联盟为基础的（）的社会主义国家。",
+      "question_type": "填空题",
+      "answer": "人民民主专政",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:11:08"
+    },
+    {
+      "question_id": "3547269",
+      "question_text": "国家依法保护公民宗教信仰自由和正常宗教活动，坚持宗教独立自主自办的原则，防范、制止和依法惩治利用（）进行危害国家安全的违法犯罪活动。",
+      "question_type": "填空题",
+      "answer": "宗教",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:11:53"
+    },
+    {
+      "question_id": "3547202",
+      "question_text": "十九届四中全会提出“完善国家安全体系”时，要求“坚持总体国家安全观，统筹（），坚持人民安全、政治安全、国家利益至上有机统一。”",
+      "question_type": "填空题",
+      "answer": "发展和安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:11:53"
+    },
+    {
+      "question_id": "3546998",
+      "question_text": "经济安全风险的预警机制核心包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "建立宏观经济与重点领域风险监测体系",
+        "B": "加强经济数据研判与趋势分析",
+        "C": "完善风险预警与应急响应联动机制",
+        "D": "忽视潜在风险，依赖事后补救"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:12:33"
+    },
+    {
+      "question_id": "3547094",
+      "question_text": "我们要继承和弘扬联合国宪章的宗旨和原则，构建以合作共赢为核心的新型国际关系，打造人类命运共同体。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:12:33"
+    },
+    {
+      "question_id": "3547130",
+      "question_text": "维护政治安全只需加强制度建设，无需重视思想文化领域工作。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:12:33"
+    },
+    {
+      "question_id": "3547146",
+      "question_text": "中华人民共和国的社会主义经济制度的基础是生产资料的()，即全民所有制和劳动群众集体所有制。",
+      "question_type": "填空题",
+      "answer": "社会主义公有制",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:13:16"
+    },
+    {
+      "question_id": "3547020",
+      "question_text": "国家加强对间谍活动的（）和研判能力。",
+      "question_type": "填空题",
+      "answer": "情报分析",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:13:16"
+    },
+    {
+      "question_id": "3546977",
+      "question_text": "坚持以政治安全为根本的核心任务包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "维护国家主权独立和领土完整",
+        "B": "坚持党的领导和中国特色社会主义制度",
+        "C": "防范政治领域重大风险与挑战",
+        "D": "巩固主流意识形态的指导地位"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:13:16"
+    },
+    {
+      "question_id": "3546938",
+      "question_text": "总体国家安全观的价值导向包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "以人民为中心，保障人民根本利益",
+        "B": "维护国家主权、安全和发展利益",
+        "C": "促进世界和平与共同发展",
+        "D": "追求绝对安全，排斥国际协作"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:13:16"
+    },
+    {
+      "question_id": "3546880",
+      "question_text": "新时代党领导国家安全事业取得了一系列开创性成就，这些成就包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "加强国家安全体系和安全能力建设",
+        "B": "以坚定意志和坚强毅力维护国家主权、安全、发展利益，坚持把安全发展贯穿国家发展各领域全过程，国家安全得到全面加强",
+        "C": "健全和完善国家安全法治体系",
+        "D": "进一步健全共建共治共享的社会治理制度"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:14:03"
+    },
+    {
+      "question_id": "3547237",
+      "question_text": "2018年4月()印发《关于加强大中小学国家安全教育的实施意见》。",
+      "question_type": "填空题",
+      "answer": "教育部",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:14:03"
+    },
+    {
+      "question_id": "3546882",
+      "question_text": "当前，政治安全面临的威胁、挑战主要表现在（）方面。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "精神懈息、能力不足、脱离群众，消极腐败的危险",
+        "B": "颜色革命”对我国政治安全构成重大现实威胁",
+        "C": "我国意识形态领域斗争形势复杂严峻",
+        "D": "“一国两制”在香港的实践也遇到了新情况、新问题"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-22 15:14:03"
+    },
+    {
+      "question_id": "3547291",
+      "question_text": "国家加强对外安全合作，维护海外利益安全，保护海外中国公民、（）和其他组织的合法权益。",
+      "question_type": "填空题",
+      "answer": "法人",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:12:11"
+    },
+    {
+      "question_id": "3547021",
+      "question_text": "国家建立健全数据安全（）机制，降低数据安全事件影响。",
+      "question_type": "填空题",
+      "answer": "应急响应",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:12:51"
+    },
+    {
+      "question_id": "3547168",
+      "question_text": "2004年9月中共()届四中全会通过的《关于加强党的执政能力建设的决定》，首次提出要“抓紧构建维护国家安全的科学、协调、高效的工作机制。”",
+      "question_type": "填空题",
+      "answer": "十六",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:12:51"
+    },
+    {
+      "question_id": "3546987",
+      "question_text": "维护政治安全的组织保障包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "强化党的全面领导，完善政治安全工作机制",
+        "B": "加强政治安全领域人才队伍建设",
+        "C": "推动各部门协同合作，形成工作合力",
+        "D": "建立政治安全责任追究制度"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:13:35"
+    },
+    {
+      "question_id": "3546920",
+      "question_text": "社会安全的基础目标与任务包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "维护社会稳定，保障人民生命财产安全",
+        "B": "化解矛盾纠纷，完善社会治理体系",
+        "C": "提升公共安全应急处置能力",
+        "D": "忽视民生需求以追求短期稳定"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:13:35"
+    },
+    {
+      "question_id": "3547312",
+      "question_text": "国家加强对生物安全（）的研究、开发和应用。",
+      "question_type": "填空题",
+      "answer": "技术",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:13:35"
+    },
+    {
+      "question_id": "3547010",
+      "question_text": "国家加强对生物安全（）的宣传教育。",
+      "question_type": "填空题",
+      "answer": "法律法规",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:14:18"
+    },
+    {
+      "question_id": "3547008",
+      "question_text": "国家加强对网络安全（）的培养和引进。",
+      "question_type": "填空题",
+      "answer": "人才",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:14:18"
+    },
+    {
+      "question_id": "3546929",
+      "question_text": "总体国家安全观的\"总体性\"体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "统筹传统安全与非传统安全",
+        "B": "协调内部安全与外部安全",
+        "C": "兼顾国土安全与国民安全",
+        "D": "平衡自身安全与共同安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:14:18"
+    },
+    {
+      "question_id": "3547065",
+      "question_text": "总体国家安全观认为，自身安全和共同安全是可以分割的，每个国家只需追求自身安全即可。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观倡导自身安全和共同安全不可分割，当今世界各国相互联系、相互依存程度空前加深，追求本国自身安全的同时必须考虑自身安全与他国安全的关系，尊重各国在共同安全基础上寻求自身的发展和安全，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:14:18"
+    },
+    {
+      "question_id": "3546979",
+      "question_text": "维护政治安全的关键举措有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "加强党的政治建设，提升执政能力",
+        "B": "完善政治安全法律法规与制度体系",
+        "C": "强化舆论引导，筑牢思想防线",
+        "D": "防范外部势力干涉内政"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:14:59"
+    },
+    {
+      "question_id": "3547104",
+      "question_text": "总体国家安全观以人民安全为宗旨，以政治安全为根本，以经济安全为基础。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:14:59"
+    },
+    {
+      "question_id": "3546921",
+      "question_text": "军事安全现代化建设的主要方向有（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "建设世界一流军队，提升联合作战能力",
+        "B": "推进国防科技自主创新，发展新型作战力量",
+        "C": "强化党对人民军队的绝对领导",
+        "D": "减少国防投入以降低成本"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:15:44"
+    },
+    {
+      "question_id": "3547047",
+      "question_text": "中国共产党在新民主主义革命时期就高度重视国家安全。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "中国共产党诞生于近代中国内忧外患之时、民族生死存亡之际，在新民主主义革命时期，就团结带领广大人民群众积极投身于争取民族独立和人民解放的艰苦斗争之中，对国家安全的重要性有着刻骨铭心的认识，倍加珍视国家安全，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:15:44"
+    },
+    {
+      "question_id": "3547001",
+      "question_text": "国家建立健全网络安全（）支撑体系，提升网络安全防护水平。",
+      "question_type": "填空题",
+      "answer": "技术",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:15:44"
+    },
+    {
+      "question_id": "3547056",
+      "question_text": "2017 年 10 月，习近平在党的十九大报告中提出，要坚持总体国家安全观，把坚持总体国家安全观上升到新时代坚持和发展中国特色社会主义基本方略的高度。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：2017 年 10 月，习近平在党的十九大报告中提出要坚持总体国家安全观，将其上升到新时代坚持和发展中国特色社会主义基本方略的高度，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:16:27"
+    },
+    {
+      "question_id": "3547238",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:设立国家安全学()级学科。",
+      "question_type": "填空题",
+      "answer": "一",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:17:08"
+    },
+    {
+      "question_id": "3547117",
+      "question_text": "人民群众是国家安全的维护者，但无需参与具体安全工作。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:17:08"
+    },
+    {
+      "question_id": "3546884",
+      "question_text": "我国根据本国的国情，采取以（）的分配制度，实质上反映出劳动、管理、资本、技术、土地等各种生产要素，都按贡献参与了收益分配。",
+      "question_type": "多选题",
+      "answer": "CD",
+      "options": {
+        "A": "按需分配为主体",
+        "B": "按需分配为主体",
+        "C": "按劳分配为主体",
+        "D": "多种分配方式并存"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:17:08"
+    },
+    {
+      "question_id": "3546983",
+      "question_text": "维护政治安全的法治保障措施有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "完善国家安全法律法规体系",
+        "B": "加强执法力度，打击危害政治安全行为",
+        "C": "强化法治宣传，提升全民政治安全意识",
+        "D": "建立政治安全风险法律评估机制"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:17:08"
+    },
+    {
+      "question_id": "3547212",
+      "question_text": "《中华人民共和国网络安全法》于（）颁布，2017年6月",
+      "question_type": "填空题",
+      "answer": "42681",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:17:47"
+    },
+    {
+      "question_id": "3547225",
+      "question_text": "《国家安全法》规定:中华人民共和国公民、一切国家机关和武装力量、各政党和各人民团体、企业事业组织和其他社会组织，都有维护()的责任和义务。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:17:47"
+    },
+    {
+      "question_id": "3547287",
+      "question_text": "国家加强国家安全人才培养和队伍建设，对国家安全工作人员实行（）。",
+      "question_type": "填空题",
+      "answer": "专门管理",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:18:31"
+    },
+    {
+      "question_id": "3547089",
+      "question_text": "能战方能止战，强国必须强军。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:18:31"
+    },
+    {
+      "question_id": "3547153",
+      "question_text": "贯彻落实总体国家安全观必须既重视外部安全，又重视()。",
+      "question_type": "填空题",
+      "answer": "内部安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:18:31"
+    },
+    {
+      "question_id": "3547178",
+      "question_text": "()规定:中央国家安全领导机构实行统分结合、协调高效的国家安全制度与工作机制。",
+      "question_type": "填空题",
+      "answer": "《国安全法》",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 00:18:31"
+    },
+    {
+      "question_id": "3547057",
+      "question_text": "总体国家安全观所涉安全领域的形式和内容各不相同，各领域安全是相互独立，不会相互影响的。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观所涉安全领域形式和内容不同，但各领域安全相互关联、相互影响，某一领域局部问题可能串联演化危及国家安全，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:28:10"
+    },
+    {
+      "question_id": "3546917",
+      "question_text": "军事安全在国家安全保障体系中的重要作用体现在（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "捍卫国家主权和领土完整的战略支撑",
+        "B": "保障政治安全的保底手段",
+        "C": "维护国际地位的重要基石",
+        "D": "促进经济发展的直接动力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:28:10"
+    },
+    {
+      "question_id": "3547067",
+      "question_text": "我国基本经济制度中，公有制经济和非公有制经济在市场中的地位不平等。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：公有制经济和非公有制经济都是社会主义市场经济的重要组成部分，在市场竞争中地位平等，共同构成我国经济社会发展的重要基础。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:28:50"
+    },
+    {
+      "question_id": "3547105",
+      "question_text": "总体国家安全观仅关注传统安全领域，不涉及网络、生态等非传统安全。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:28:50"
+    },
+    {
+      "question_id": "3547154",
+      "question_text": "贯彻落实总体国家安全观必须既重视国土安全，又重视()。",
+      "question_type": "填空题",
+      "answer": "国民安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:28:50"
+    },
+    {
+      "question_id": "3547164",
+      "question_text": "()安全就是要通过对话合作促进各国和本地区安全。",
+      "question_type": "填空题",
+      "answer": "合作",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:29:31"
+    },
+    {
+      "question_id": "3547280",
+      "question_text": "国家建立健全粮食安全（）制，强化粮食安全监督考核。",
+      "question_type": "填空题",
+      "answer": "责任",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:29:31"
+    },
+    {
+      "question_id": "3547058",
+      "question_text": "国家安全理论是马克思主义国家学说的重要组成部分，资产阶级的国家安全本质上是维护资产阶级的阶级安全和利益安全。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国家安全理论是马克思主义国家学说重要组成部分，马克思深刻揭示资产阶级国家安全本质是维护资产阶级阶级和利益安全，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:29:31"
+    },
+    {
+      "question_id": "3547002",
+      "question_text": "国家加强对核设施（）的监督管理，确保核设施安全运行。",
+      "question_type": "填空题",
+      "answer": "安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:30:12"
+    },
+    {
+      "question_id": "3547155",
+      "question_text": "贯彻落实总体国家安全观必须既重视传统安全，又重视()。",
+      "question_type": "填空题",
+      "answer": "非传统安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:30:12"
+    },
+    {
+      "question_id": "3546901",
+      "question_text": "践行总体国家安全观的创新实践方向包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "利用大数据、人工智能等技术提升安全监测能力",
+        "B": "创新安全宣传形式，运用新媒体扩大覆盖面",
+        "C": "探索基层安全治理新模式，提升响应效率",
+        "D": "推动国际安全合作，借鉴先进经验"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:30:59"
+    },
+    {
+      "question_id": "3547302",
+      "question_text": "国家健全国家安全风险监测预警制度，加强对国家安全风险的（）和实时预警。",
+      "question_type": "填空题",
+      "answer": "动态监测",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:30:59"
+    },
+    {
+      "question_id": "3546913",
+      "question_text": "人工智能安全的关键环节包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "规范算法应用，防范技术滥用风险",
+        "B": "加强数据隐私保护，避免算法偏见",
+        "C": "建立伦理审查机制，确保技术可控",
+        "D": "无限制发展人工智能，忽视安全隐患"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:31:40"
+    },
+    {
+      "question_id": "3546885",
+      "question_text": "经济发展安全主要包括（）。",
+      "question_type": "多选题",
+      "answer": "AB",
+      "options": {
+        "A": "经济发展道路安全",
+        "B": "经济发展所需人才和物资的安全",
+        "C": "经济外部环境安全",
+        "D": "经济文化环境安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:31:40"
+    },
+    {
+      "question_id": "3547199",
+      "question_text": "《国家安全法》规定:国家健全国家安全保障体系，增强维护（）的能力。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:31:40"
+    },
+    {
+      "question_id": "3547160",
+      "question_text": "()漠视基本人权、践踏人道正义，挑战的是人类文明共同的底线，既不是民族问题，也不是宗教问题，而是各族人民的共同敌人。",
+      "question_type": "填空题",
+      "answer": "暴力恐怖活动",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:32:21"
+    },
+    {
+      "question_id": "3547272",
+      "question_text": "国家健全国家安全风险监测预警制度，根据国家安全风险程度，及时发布相应（）的风险预警。",
+      "question_type": "填空题",
+      "answer": "级别",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:32:21"
+    },
+    {
+      "question_id": "3547091",
+      "question_text": "维护科技安全，建设科技强国，必须大力发扬中华传统文化。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:32:21"
+    },
+    {
+      "question_id": "3547239",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:依托普通高校和职业院校现有相关学科专业开展()专业人才培养。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:34:58"
+    },
+    {
+      "question_id": "3547085",
+      "question_text": "江山就是人民，人民就是江山。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:34:58"
+    },
+    {
+      "question_id": "3547194",
+      "question_text": "《国家安全法》规定:发生危及国家安全的特别重大事件，需要进入紧急状态、战争状态或者进行全国总动员、局部动员的，由全国人民代表大会、全国人民代表大会常务委员会或者国务院依照（）和有关法律规定的权限和程序决定。",
+      "question_type": "填空题",
+      "answer": "宪法",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:34:58"
+    },
+    {
+      "question_id": "3547039",
+      "question_text": "在总体国家安全观中，经济安全是国家安全的根本。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：政治安全是国家安全的根本，经济安全是国家安全的基础，题干说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:34:58"
+    },
+    {
+      "question_id": "3547304",
+      "question_text": "国家加强对核材料、（）的安全管理。",
+      "question_type": "填空题",
+      "answer": "放射性废物",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:35:43"
+    },
+    {
+      "question_id": "3546859",
+      "question_text": "当前我国国家安全形势发生了深刻变化，主要体现在()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "国家安全形势更趋复杂",
+        "B": "发展和安全利益面临重大挑战",
+        "C": "传统和非传统安全威胁重叠交织",
+        "D": "国际和国内安全风险传导联动"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:35:43"
+    },
+    {
+      "question_id": "3547299",
+      "question_text": "国家加强对涉及国家安全的（）保护，防止信息泄露、滥用。",
+      "question_type": "填空题",
+      "answer": "公民个人信息",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:35:43"
+    },
+    {
+      "question_id": "3547062",
+      "question_text": "总体国家安全观对中华优秀传统战略文化的继承创新体现在多个方面，如强调忧患意识、注重民本思想等。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观继承创新了中华优秀传统战略文化，强调忧患意识，主张 “于安思危，于治忧乱”;注重民本思想，主张 “民惟邦本，本固邦宁” 等 ，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:36:24"
+    },
+    {
+      "question_id": "3546990",
+      "question_text": "保障金融安全的关键举措有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "防范系统性金融风险，加强金融监管",
+        "B": "维护货币稳定，完善金融市场体系",
+        "C": "打击金融犯罪，防范外部金融冲击",
+        "D": "推动金融创新与风险防控平衡发展"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:36:24"
+    },
+    {
+      "question_id": "3547222",
+      "question_text": "《国家安全法》规定:维护国家安全，应当与()发展相协调。",
+      "question_type": "填空题",
+      "answer": "经济社会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:55:39"
+    },
+    {
+      "question_id": "3547120",
+      "question_text": "总体国家安全观突破了传统安全观单一军事优先的局限。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:55:39"
+    },
+    {
+      "question_id": "3546943",
+      "question_text": "中国特色国家安全道路的制度优势表现为（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "集中力量办大事的组织效能",
+        "B": "党的领导与人民主体地位的统一",
+        "C": "制度的稳定性与改革创新能力",
+        "D": "安全治理的整体性与协同性"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:56:21"
+    },
+    {
+      "question_id": "3547013",
+      "question_text": "国家建立健全反恐怖主义（）预案体系，提高应急响应能力。",
+      "question_type": "填空题",
+      "answer": "应急处置",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:56:21"
+    },
+    {
+      "question_id": "3547176",
+      "question_text": "坚持()对国家安全工作的领导，是做好国家安全工作的根本原则。",
+      "question_type": "填空题",
+      "answer": "党",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:57:05"
+    },
+    {
+      "question_id": "3546904",
+      "question_text": "网络安全领域的核心任务包括（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "保障网络主权，维护国家信息安全",
+        "B": "防范网络攻击、病毒传播与数据泄露",
+        "C": "推动网络空间国际规则的公平制定",
+        "D": "完全开放网络权限，促进自由流动"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:57:43"
+    },
+    {
+      "question_id": "3547110",
+      "question_text": "人民安全是国家安全的宗旨，意味着国家安全工作只需保障个体安全。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:58:21"
+    },
+    {
+      "question_id": "3547076",
+      "question_text": "总体国家安全观涵盖的领域包括政治安全、国土安全等，金融安全不属于总体国家安全观的范畴。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:59:03"
+    },
+    {
+      "question_id": "3547286",
+      "question_text": "国家建立国家安全（）预案体系，组织开展相关演练。",
+      "question_type": "填空题",
+      "answer": "危机管控",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:59:03"
+    },
+    {
+      "question_id": "3547090",
+      "question_text": "全力打击暴力恐怖犯罪、坚决依法惩处暴恐分子，为人民群众建立安定有序、繁荣和谐的社会环境，既是民心所昐，也是众望所归。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:59:47"
+    },
+    {
+      "question_id": "3546974",
+      "question_text": "以人民安全为宗旨的文化引领作用体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "弘扬安全文化，增强全民安全意识",
+        "B": "培育社会责任感，凝聚安全共识",
+        "C": "传播正确安全观，抵制错误思潮",
+        "D": "推动安全理念融入日常生活"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 08:59:47"
+    },
+    {
+      "question_id": "3546968",
+      "question_text": "人民安全与国家安全的关系是（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "人民安全是国家安全的本质要求",
+        "B": "国家安全为人民安全提供保障",
+        "C": "二者相互依存、相辅相成",
+        "D": "人民安全需服从国家安全大局"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 09:00:32"
+    },
+    {
+      "question_id": "3547116",
+      "question_text": "国家安全工作中，发展问题应优先于安全问题解决。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 09:01:17"
+    },
+    {
+      "question_id": "3547007",
+      "question_text": "国家建立健全数据安全（）制度，保障数据安全。",
+      "question_type": "填空题",
+      "answer": "管理",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 09:01:17"
+    },
+    {
+      "question_id": "3547133",
+      "question_text": "经济安全风险只能通过政府调控解决，无需市场参与。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 09:01:17"
+    },
+    {
+      "question_id": "3547249",
+      "question_text": "《关于加强大中小学国家安全教育的实施意见》要求:教育部牵头成立全国()指导委员会，开展国家安全教育教学的研究、咨询、指导、评估、服务等工作。",
+      "question_type": "填空题",
+      "answer": "国家安全教育",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 09:01:56"
+    },
+    {
+      "question_id": "3547308",
+      "question_text": "国家加强对间谍行为的（）。",
+      "question_type": "填空题",
+      "answer": "防范、制止和惩治",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:54:23"
+    },
+    {
+      "question_id": "3547086",
+      "question_text": "&nbsp;新时代维护人民安全，必须坚持以人民为中心推进国家安全体系和能力现代化，必须着力解决人民群众反映强烈的安全问题。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:54:23"
+    },
+    {
+      "question_id": "3547029",
+      "question_text": "发展是安全的目的，所以为了发展可以适当牺牲安全。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：发展是安全的目的，但安全是发展的条件和保障，任何以牺牲安全为代价的发展都难以持续，二者不可偏废，所以错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:55:02"
+    },
+    {
+      "question_id": "3547149",
+      "question_text": "中华人民共和国武装力量的任务是巩固国防，()，保卫祖国，保卫人民的和平劳动，参加国家建设事业，努力为人民服务。",
+      "question_type": "填空题",
+      "answer": "抵抗侵略",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:55:02"
+    },
+    {
+      "question_id": "3547112",
+      "question_text": "经济安全对国家安全的作用有限，主要依靠军事力量保障安全。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:55:02"
+    },
+    {
+      "question_id": "3547119",
+      "question_text": "经济安全仅指保障国内产业发展，与国际贸易无关。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:55:40"
+    },
+    {
+      "question_id": "3547053",
+      "question_text": "总体国家安全观的 “五个统筹” 中，统筹维护国家安全和塑造国家安全，维护国家安全是更高层次更具前瞻性的目标要求，塑造国家安全是基本要求。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：维护国家安全是总体国家安全观的基本要求，塑造国家安全则是更高层次更具前瞻性的目标要求，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:55:40"
+    },
+    {
+      "question_id": "3547182",
+      "question_text": "《国家安全法》规定:国家根据维护()工作需要，建立跨部门会商工作机制，就维护国家安全工作的重大事项进行会商研判，提出意见和建议。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:55:40"
+    },
+    {
+      "question_id": "3547014",
+      "question_text": "国家加强对危害国家安全行为的（）和源头治理。",
+      "question_type": "填空题",
+      "answer": "预防",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:56:59"
+    },
+    {
+      "question_id": "3547240",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:遴选一批有条件的高校建立()研究专门机构，设立相关研究项目。",
+      "question_type": "填空题",
+      "answer": "国家安全教育",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:56:59"
+    },
+    {
+      "question_id": "3547082",
+      "question_text": "当前，我国经济发展面临复杂外部环境挑战。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:58:18"
+    },
+    {
+      "question_id": "3547214",
+      "question_text": "《中华人民共和国宪法》规定:中华人民共和国公民必须遵守宪法和法律，保守（），爱护公共财产，遵守劳动纪律，遵守公共秩序，尊重社会公德。",
+      "question_type": "填空题",
+      "answer": "国家秘密",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:59:00"
+    },
+    {
+      "question_id": "3546916",
+      "question_text": "国际安全风险的主要来源包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "地区冲突与军备竞赛升级",
+        "B": "跨国犯罪与恐怖主义蔓延",
+        "C": "全球经济失衡引发的社会动荡",
+        "D": "自然灾害导致的生态危机"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:59:39"
+    },
+    {
+      "question_id": "3547131",
+      "question_text": "保障能源安全只需依赖进口，无需发展清洁能源。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 21:59:39"
+    },
+    {
+      "question_id": "3547179",
+      "question_text": "（）规定:国家建立国家安全重点领域工作协调机制，统筹协调中央有关职能部门推进相关工作。",
+      "question_type": "填空题",
+      "answer": "《国家安全法》",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-23 22:00:21"
+    },
+    {
+      "question_id": "3547158",
+      "question_text": "习近平总书记首次提出总体国家安全观时涉及了国民安全、政治安全、()、军事安全、文化安全、社会安全、国土安全、科技安全、信息安全、生态安全、资源安全、核安全等()个国家安全要素。",
+      "question_type": "填空题",
+      "answer": "经济安全,12",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:10:40"
+    },
+    {
+      "question_id": "3547145",
+      "question_text": "总体国家安全观强调要“以()安全来基础”。",
+      "question_type": "填空题",
+      "answer": "经济",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:10:40"
+    },
+    {
+      "question_id": "3547208",
+      "question_text": "我国现行《国家安全法》于（）颁布实施。",
+      "question_type": "填空题",
+      "answer": "42186",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:11:22"
+    },
+    {
+      "question_id": "3547261",
+      "question_text": "国家建立国家安全（）制度，及时发布相应风险预警。",
+      "question_type": "填空题",
+      "answer": "风险监测预警",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:12:00"
+    },
+    {
+      "question_id": "3547128",
+      "question_text": "国家安全工作中，安全措施可能会限制经济发展的灵活性。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:12:42"
+    },
+    {
+      "question_id": "3547209",
+      "question_text": "我国首部《国家情报法》于（）颁布，28日实施。",
+      "question_type": "填空题",
+      "answer": "42548",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:12:42"
+    },
+    {
+      "question_id": "3547148",
+      "question_text": "中华人民共和国的武装力量属于()。",
+      "question_type": "填空题",
+      "answer": "人民",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:12:42"
+    },
+    {
+      "question_id": "3547203",
+      "question_text": "（）全会提出“完善国家安全体系”时，要求“加强国家安全人民防线建设，增强全民国家安全意识”。",
+      "question_type": "填空题",
+      "answer": "十九届四中",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:12:42"
+    },
+    {
+      "question_id": "3546881",
+      "question_text": "新时代人民安全面临的风险挑战包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "重大自然灾害，我国是世界上自然灾害最为严重的国家之一",
+        "B": "公共卫生事件，防范化解重大疫情和重大突发公共卫生事件",
+        "C": "事故灾难，重特大安全生产事故给人民生命财产造成严重危害",
+        "D": "社会安全事件，社会领域的各种问题和矛盾"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:12:42"
+    },
+    {
+      "question_id": "3547196",
+      "question_text": "《国家安全法》规定:履行国家安全危机管控职责的有关机关依法采取处置国家安全危机的管控措施，应当与国家安全危机可能造成的危害的性质、程度和范围相适应;有多种措施可供选择的，应当选择有利于最大程度保护（）、组织权益的措施。",
+      "question_type": "填空题",
+      "answer": "公民",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:13:20"
+    },
+    {
+      "question_id": "3546949",
+      "question_text": "中国特色国家安全道路的理论创新体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "提出符合国情的安全发展模式",
+        "B": "构建新型国家安全治理体系",
+        "C": "创新安全领域国际合作理念",
+        "D": "突破传统安全观的思维局限"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:14:46"
+    },
+    {
+      "question_id": "3547255",
+      "question_text": "网络安全是国家安全的重要组成部分，关键信息基础设施的运营者应当履行网络安全保护义务，采取技术措施和其他必要措施，保障网络免受干扰、破坏或者未经授权的访问，防止网络数据泄露或者被（）、篡改、毁损。",
+      "question_type": "填空题",
+      "answer": "窃取",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:16:14"
+    },
+    {
+      "question_id": "3546967",
+      "question_text": "以人民安全为宗旨的实践路径有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "倾听人民诉求，回应安全关切",
+        "B": "发动群众参与国家安全建设",
+        "C": "完善民生保障，夯实安全基础",
+        "D": "强化法治保障，维护公民权益"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 09:16:57"
+    },
+    {
+      "question_id": "3546934",
+      "question_text": "总体国家安全观的方法论强调（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "系统思维，统筹各领域安全关系",
+        "B": "战略思维，把握安全发展大势",
+        "C": "法治思维，完善安全治理体系",
+        "D": "底线思维，防范重大安全风险"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:43:12"
+    },
+    {
+      "question_id": "3547195",
+      "question_text": "《国家安全法》规定:国家决定进入紧急状态、战争状态或者实施国防动员后，履行国家安全危机管控职责的有关机关依照法律规定或者（）规定，有权采取限制公民和组织权利、增加公民和组织义务的特别措施。",
+      "question_type": "填空题",
+      "answer": "全国人民代表大会常务委员会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:43:57"
+    },
+    {
+      "question_id": "3547032",
+      "question_text": "以新安全格局保障新发展格局，要全领域谋划，统筹推进总体国家安全观所涉各领域的安全合力。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：以新安全格局保障新发展格局，其中全领域谋划就是要统筹推进总体国家安全观所涉各领域的安全合力，表述正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:44:39"
+    },
+    {
+      "question_id": "3547107",
+      "question_text": "国家安全工作可以脱离党的领导，独立开展。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:44:39"
+    },
+    {
+      "question_id": "3546922",
+      "question_text": "军事安全的国际合作原则包括（）",
+      "question_type": "多选题",
+      "answer": "AB",
+      "options": {
+        "A": "平等互信、合作共赢，维护地区和平",
+        "B": "参与国际维和与反恐行动",
+        "C": "推动军事结盟以对抗他国",
+        "D": "共享军事技术以获取利益"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:45:21"
+    },
+    {
+      "question_id": "3547121",
+      "question_text": "党的领导在国家安全工作中主要发挥监督作用，不参与具体决策。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:45:57"
+    },
+    {
+      "question_id": "3547144",
+      "question_text": "中华人民共和国全国人民代表大会是最高()权力机关。",
+      "question_type": "填空题",
+      "answer": "国家",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:46:37"
+    },
+    {
+      "question_id": "3547126",
+      "question_text": "总体国家安全观强调“总体性”，要求统筹国内国际两个大局。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:46:37"
+    },
+    {
+      "question_id": "3546962",
+      "question_text": "统筹发展和安全的战略目标是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "实现高质量发展与高水平安全良性互动",
+        "B": "构建安全发展共同体",
+        "C": "保障国家战略目标顺利实现",
+        "D": "维护人民群众根本利益"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:47:59"
+    },
+    {
+      "question_id": "3547064",
+      "question_text": "国家安全体系和能力现代化是国家治理体系和治理能力现代化建设的重要组成部分。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：国家安全体系和能力现代化是国家治理体系和治理能力现代化建设的重要组成部分，不断推进国家安全体系和能力现代化对实现新时代新征程上党的中心任务具有重要意义，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:47:59"
+    },
+    {
+      "question_id": "3547081",
+      "question_text": "“明者防祸于未萌，智者图患于将来”说明我们必须积极主动、未雨绸缪，提前做好应对任何形式的矛盾风险挑战的准备。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:49:19"
+    },
+    {
+      "question_id": "3546999",
+      "question_text": "坚持以经济安全为基础的最终目标是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "筑牢国家发展的物质根基，保障长治久安",
+        "B": "提升经济体系的韧性与国际竞争力",
+        "C": "维护人民群众切身利益与社会稳定",
+        "D": "为实现中华民族伟大复兴提供坚实经济支撑"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:51:50"
+    },
+    {
+      "question_id": "3547298",
+      "question_text": "国家建立健全国家安全（）体制，制定国家突发事件总体应急预案。",
+      "question_type": "填空题",
+      "answer": "应急管理",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:53:11"
+    },
+    {
+      "question_id": "3547084",
+      "question_text": "电信网络诈骗等新型违法犯罪严重威胁人民财产安全。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:53:11"
+    },
+    {
+      "question_id": "3546954",
+      "question_text": "统筹发展和安全的重点领域有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "科技创新与技术安全",
+        "B": "经济发展与金融安全",
+        "C": "对外开放与国家安全",
+        "D": "社会建设与公共安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:53:58"
+    },
+    {
+      "question_id": "3547262",
+      "question_text": "危害国家安全犯罪、恐怖活动犯罪、黑社会性质的组织犯罪的犯罪分子，在刑罚执行完毕或者赦免以后，在（）再犯上述任一类罪的，都以累犯论处。",
+      "question_type": "填空题",
+      "answer": "任何时候",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:53:58"
+    },
+    {
+      "question_id": "3546997",
+      "question_text": "统筹开放与经济安全需处理好的关系包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "扩大开放与防范外部风险的关系",
+        "B": "引进外资与维护产业安全的关系",
+        "C": "参与国际分工与保障经济主权的关系",
+        "D": "技术引进与自主创新的关系"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:54:43"
+    },
+    {
+      "question_id": "3547098",
+      "question_text": "新时代大学生是中华民族伟大复兴进程的见证者和参与者，更是中国特色社会主义事业的建设者和主力军。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:55:23"
+    },
+    {
+      "question_id": "3546868",
+      "question_text": "以下属于中国共产党在不同历史时期的国家安全思想的有()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "毛泽东提出\"积极防御\"和\"人民战争\"的战略思想",
+        "B": "邓小平强调\"国家的主权和安全要始终放在第一位\"",
+        "C": "江泽民提出以互信、互利、平等、协作为核心的新安全观",
+        "D": "胡锦涛提出实施互利共赢的开放战略"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:55:23"
+    },
+    {
+      "question_id": "3547218",
+      "question_text": "《国家安全法》规定:中央国家安全领导机构负责国家安全工作的决策和议事协调，研究制定、指导实施国家安全战略和有关重大方针政策，统筹协调国家安全重大事项和重要工作，推动（）法治建设。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:56:07"
+    },
+    {
+      "question_id": "3546969",
+      "question_text": "贯彻以人民安全为宗旨需处理好的关系包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "个体安全与整体安全的关系",
+        "B": "短期安全需求与长期安全目标的关系",
+        "C": "人民安全与其他领域安全的关系",
+        "D": "国内安全与国际安全的关系"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:57:49"
+    },
+    {
+      "question_id": "3547172",
+      "question_text": "中央国家安全委员会是中共中央关于国家安全工作的决策和议事协调机构，向()负责。",
+      "question_type": "填空题",
+      "answer": "中央政治局、中央政治局常务委员会",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:59:10"
+    },
+    {
+      "question_id": "3547028",
+      "question_text": "新时代党领导国家安全工作取得的开创性成就中，包括健全和完善国家安全法治体系。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：新时代党领导国家安全工作取得诸多开创性成就，其中包括健全和完善国家安全法治体系，制定或修改多部与国家安全相关法律，表述正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 18:59:50"
+    },
+    {
+      "question_id": "3546947",
+      "question_text": "中国特色国家安全道路的国际意义在于（）",
+      "question_type": "多选题",
+      "answer": "ABC",
+      "options": {
+        "A": "为发展中国家提供安全治理借鉴",
+        "B": "推动全球安全治理体系变革",
+        "C": "贡献和平发展的中国方案",
+        "D": "主导国际安全规则制定"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 19:00:30"
+    },
+    {
+      "question_id": "3546946",
+      "question_text": "贯彻中国特色国家安全道路的保障措施有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "加强党的政治建设，提升领导能力",
+        "B": "完善国家安全体制机制",
+        "C": "强化法治保障与人才支撑",
+        "D": "推动全社会形成安全共识"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 19:01:15"
+    },
+    {
+      "question_id": "3546865",
+      "question_text": "总体国家安全观提出的政治意义体现在()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "为增强做好新时代国家安全工作的政治判断力、政治领悟力和政治执行力提供了指导",
+        "B": "党的十九大将坚持总体国家安全观纳入新时代坚持和发展中国特色社会主义的基本方略，并写入党章",
+        "C": "党的二十大进一步强调，必须坚定不移贯彻总体国家安全观",
+        "D": "反映了全党全国人民的共同意志"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-24 19:02:32"
+    },
+    {
+      "question_id": "3546971",
+      "question_text": "人民群众在国家安全工作中的作用是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "国家安全的维护者与参与者",
+        "B": "安全风险的发现者与预警者",
+        "C": "安全政策的监督者与推动者",
+        "D": "安全成果的共享者与受益者"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:45:41"
+    },
+    {
+      "question_id": "3547200",
+      "question_text": "《国家安全法》规定:承担国家安全战略物资储备任务的单位，应当按照国家有关规定和标准对国家安全物资进行收储、保管和维护，定期调整更换，保证储备物资的使用效能和（）。",
+      "question_type": "填空题",
+      "answer": "安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:53:17"
+    },
+    {
+      "question_id": "3547060",
+      "question_text": "中国共产党在改革开放和社会主义现代化建设新时期，把军事建设确立为党和国家的中心任务。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：中国共产党在改革开放和社会主义现代化建设新时期，把经济建设确立为党和国家的中心任务，而非军事建设，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:54:31"
+    },
+    {
+      "question_id": "3546874",
+      "question_text": "新时代维护经济安全面临的风险挑战包括()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "否定我国基本经济制度的错误观点影响不容忽视",
+        "B": "公有制经济和非公有制经济共同发展与高质量发展的要求还有差距",
+        "C": "不断完善社会主义市场经济体制的任务还很艰巨",
+        "D": "西方经济霸权主义和霸凌行径对维护经济主权的风险挑战"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:57:40"
+    },
+    {
+      "question_id": "3547192",
+      "question_text": "《国家安全法》规定:国家建立统一领导、协同联动、有序高效的（）危机管控制度。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:58:20"
+    },
+    {
+      "question_id": "3547247",
+      "question_text": "教育部《关于加强大中小学国家安全教育的实施意见》要求:加强国家安全教育师资队伍建设，重点培育和选拔一批国家安全教育教学名师，打造一支以专业教师为骨干、专兼结合的()师资队伍。",
+      "question_type": "填空题",
+      "answer": "国家安全教育",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:59:02"
+    },
+    {
+      "question_id": "3547166",
+      "question_text": "党的十九大报告把“()”列为坚持与发展中国特色社会主义的十四条基本方略之一。",
+      "question_type": "填空题",
+      "answer": "坚持总体国家安全观",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 08:59:40"
+    },
+    {
+      "question_id": "3546893",
+      "question_text": "党员干部践行总体国家安全观，需要强化的责任意识包括（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "发挥先锋模范作用，带头落实安全要求",
+        "B": "提高政治判断力、领悟力、执行力",
+        "C": "严守政治纪律，维护政治安全",
+        "D": "在工作中主动排查化解安全风险"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:01:43"
+    },
+    {
+      "question_id": "3547207",
+      "question_text": "我国现行《反间谍法》于（）颁布实施。",
+      "question_type": "填空题",
+      "answer": "41944",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:02:23"
+    },
+    {
+      "question_id": "3547055",
+      "question_text": "中国共产党在新民主主义革命时期，把经济建设作为国家安全工作的重要任务。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：在新民主主义革命时期，中国共产党团结带领广大人民群众积极投身于争取民族独立和人民解放的艰苦斗争之中，主要任务是争取民族独立和人民解放，并非经济建设，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:02:23"
+    },
+    {
+      "question_id": "3547143",
+      "question_text": "中华人民共和国一切权力属于()。",
+      "question_type": "填空题",
+      "answer": "人民",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:03:09"
+    },
+    {
+      "question_id": "3546988",
+      "question_text": "经济安全在国家安全体系中的基础作用体现在（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "为国家安全提供物质保障与发展动力",
+        "B": "保障经济持续健康发展和国家经济利益",
+        "C": "维护社会稳定和民生福祉的重要支撑",
+        "D": "提升国际竞争力与抗风险能力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:06:15"
+    },
+    {
+      "question_id": "3547167",
+      "question_text": "统筹发展和安全，增强忧患意识，做到居安思危，是我们党()的一个重大原则。",
+      "question_type": "填空题",
+      "answer": "治国理政",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:06:54"
+    },
+    {
+      "question_id": "3547129",
+      "question_text": "人民安全是检验国家安全工作成效的根本标准。",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:06:54"
+    },
+    {
+      "question_id": "3547109",
+      "question_text": "统筹发展和安全只需关注经济领域，其他领域可暂缓考虑。",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:07:33"
+    },
+    {
+      "question_id": "3547263",
+      "question_text": "国家对在维护国家安全工作中作出突出贡献的个人和组织给予（）。",
+      "question_type": "填空题",
+      "answer": "表彰和奖励",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:07:33"
+    },
+    {
+      "question_id": "3547044",
+      "question_text": "总体国家安全观的 “十个坚持” 中，坚持以经济安全为宗旨。( )",
+      "question_type": "判断题",
+      "answer": "B",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：总体国家安全观的 “十个坚持” 中，坚持以人民安全为宗旨，以经济安全为基础，所以该说法错误。",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:09:39"
+    },
+    {
+      "question_id": "3547254",
+      "question_text": "危害国家安全的行为包括阴谋颠覆政府、分裂国家、推翻社会主义制度，以及窃取、刺探、收买、非法提供（）。",
+      "question_type": "填空题",
+      "answer": "国家秘密",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:11:05"
+    },
+    {
+      "question_id": "3546994",
+      "question_text": "贸易安全的重点任务有（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "应对贸易保护主义，维护公平贸易环境",
+        "B": "优化贸易结构，降低关键产品进口风险",
+        "C": "加强贸易摩擦预警与争端解决能力",
+        "D": "推动自由贸易区建设，拓展国际市场"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-25 09:23:14"
+    },
+    {
+      "question_id": "3547186",
+      "question_text": "&nbsp;《国家安全法》规定:国家制定完善应对各领域()风险预案。",
+      "question_type": "填空题",
+      "answer": "国家安全",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-26 12:13:04"
+    },
+    {
+      "question_id": "3546944",
+      "question_text": "党的领导与国家安全工作的关系是（）",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "党是国家安全工作的最高政治领导力量",
+        "B": "国家安全工作落实党的战略部署",
+        "C": "党的决策引领国家安全体系建设",
+        "D": "国家安全成效检验党的执政能力"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-26 12:13:04"
+    },
+    {
+      "question_id": "3547006",
+      "question_text": "国家加强对间谍活动的（）和侦查能力建设。",
+      "question_type": "填空题",
+      "answer": "技术防范",
+      "options": {},
+      "analysis": "",
+      "category_id": "20003",
+      "collected_time": "2026-03-26 12:19:17"
+    },
+    {
+      "question_id": "3546873",
+      "question_text": "下列属于维护政治安全的举措有()",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "坚持马克思主义在意识形态领域的指导地位",
+        "B": "加强党的全面领导",
+        "C": "坚定中国特色社会主义“四个自信”",
+        "D": "全面贯彻党的民族政策和宗教政策"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-27 17:32:33"
+    },
+    {
+      "question_id": "3546860",
+      "question_text": "总体国家安全观涵盖的重点领域包括()。",
+      "question_type": "多选题",
+      "answer": "ABCD",
+      "options": {
+        "A": "政治安全、国土安全",
+        "B": "军事安全、经济安全",
+        "C": "文化安全、社会安全",
+        "D": "科技安全、网络安全"
+      },
+      "analysis": "此处是解析内容",
+      "category_id": "20003",
+      "collected_time": "2026-03-27 17:59:25"
+    },
+    {
+      "question_id": "3547045",
+      "question_text": "政治安全主要包括政权安全、制度安全和意识形态安全。( )",
+      "question_type": "判断题",
+      "answer": "A",
+      "options": {
+        "A": "正确",
+        "B": "错误"
+      },
+      "analysis": "解析：政治安全主要是指国家政权、政治制度、政治秩序以及意识形态等方面免受威胁、侵犯、颠覆和破坏的客观状态，主要包括政权安全、制度安全和意识形态安全，所以该说法正确。",
+      "category_id": "20003",
+      "collected_time": "2026-03-29 22:08:05"
+    }
+  ],
+  "metadata": {
+    "total_questions": 457,
+    "last_updated": "2026-05-02 20:54:17",
+    "source": "自动收集"
+  }
+}
